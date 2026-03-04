@@ -4,37 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "40061d212d251191",
+        "id": "9ce2bbf5a412a9da",
         "type": "tabs",
         "children": [
           {
-            "id": "82758a0724cc55ba",
+            "id": "0c4ae0c20c3335f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Major Goals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          }
-        ]
-      },
-      {
-        "id": "81baa490b8c69cba",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "81a527bdc26cf0fe",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Major Goals"
             }
           }
         ]
@@ -199,9 +183,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "82758a0724cc55ba",
+  "active": "0c4ae0c20c3335f4",
   "lastOpenFiles": [
-    "desktop.ini",
-    "Welcome.md"
+    "Major Goals.md",
+    "Welcome.md",
+    "desktop.ini"
   ]
 }
