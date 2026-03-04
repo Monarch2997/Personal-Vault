@@ -8,29 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "82758a0724cc55ba",
+            "id": "ea645bd9ceb98f4a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "D&D Characters/Galahad/Backstory/Lineage/1st Generation/Tropez Davenport.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
-            }
-          }
-        ]
-      },
-      {
-        "id": "81baa490b8c69cba",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "81a527bdc26cf0fe",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Tropez Davenport"
             }
           }
         ]
@@ -192,13 +180,49 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "calendarium:Open Calendarium": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "82758a0724cc55ba",
+  "active": "ea645bd9ceb98f4a",
   "lastOpenFiles": [
-    "Major Goals.md",
-    "Welcome.md",
-    "desktop.ini"
+    "D&D Characters/Galahad/Backstory/Lineage/1st Generation/Concordia Davenport.md",
+    "D&D Characters/Galahad/Backstory/Lineage/1st Generation/Tropez Davenport.md",
+    "D&D Characters/Galahad/Backstory/Lineage/2nd Generation/Arthur Davenport.md",
+    "D&D Characters/Galahad/Backstory/Lineage/Family Tree.canvas",
+    "D&D Characters/Galahad/Backstory/Lineage/2nd Generation/Gawain Wilson.md",
+    "D&D Characters/Galahad/Backstory/Playing the Game through the Power and the Glory.md",
+    "D&D Characters/Galahad/Backstory/Lineage/3rd Generation/Fawkes Davenport.md",
+    "D&D Characters/Galahad/Backstory/Locations/Davenport Manor.md",
+    "D&D Characters/Galahad/Backstory/Locations",
+    "D&D Characters/Galahad/Backstory/Lineage/4th Generation/Galahad Ozzie Davenport.md",
+    "D&D Characters/Galahad/Backstory/Lineage/3rd Generation/Delamare Wilson.md",
+    "D&D Characters/Galahad/Backstory/Lineage/3rd Generation/Callista Davenport.md",
+    "Concordia.md",
+    "D&D Characters/Galahad/Backstory/Major Events/Time to Join Astro Moris.md",
+    "D&D Characters/Galahad/Backstory/Lineage/By-Marrige/Panarge Davenport.md",
+    "D&D Characters/Galahad/Backstory/Lineage/By-Marrige/Margorie Davenport.md",
+    "D&D Characters/Galahad/Backstory/Lineage/By-Marrige/Auguste Davenport.md",
+    "D&D Characters/Galahad/Backstory/Organizations/d.md",
+    "Condordia Davenport.md",
+    "D&D Characters/Galahad/Backstory/Lineage/1st Generation",
+    "D&D Characters/Galahad/Backstory/Organizations/Davenport Coal Co..md",
+    "D&D Characters/Galahad/Backstory/Organizations/Caelum Coal Co..md",
+    "D&D Characters/Galahad/Backstory/Organizations/Ozymandias Inc..md",
+    "D&D Characters/Galahad/Powers/Human Race.md",
+    "D&D Characters/Galahad/Powers/Commander Class.md",
+    "D&D Characters/Galahad/Powers/Untitled",
+    "D&D Characters/Galahad/Powers/Midas Archetype.md",
+    "D&D Characters/Galahad/Backstory/Lineage/By-Marrige/Henry Wilson.md",
+    "D&D Characters/Galahad/Backstory/Lineage/4th Generation/Bedivere Davenport.md",
+    "D&D Characters/Galahad/Backstory/Lineage/By-Marrige",
+    "D&D Characters/Galahad/Backstory/Lineage/4th Generation",
+    "D&D Characters/Galahad/Backstory/Lineage/3rd Generation",
+    "D&D Characters/Galahad/Backstory/Lineage/2nd Generation",
+    "D&D Characters/Galahad/Backstory/Major Events",
+    "D&D Characters/Galahad/Backstory/Organizations",
+    "D&D Characters/Galahad/Backstory"
   ]
 }

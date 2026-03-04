@@ -1,0 +1,1 @@
+Archetype of [[Galahad Ozzie Davenport]]

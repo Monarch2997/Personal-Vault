@@ -1,0 +1,1 @@
+Means that the only way for one to truly win at their goals is to go through the system and treat it as a game. It doesn't always have to be completely serious and cheating is forgivable. As long as you use your power and status/glory to find a new deal after cheating the last one, all will win in the game.

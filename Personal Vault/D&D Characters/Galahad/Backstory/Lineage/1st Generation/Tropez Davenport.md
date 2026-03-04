@@ -1,0 +1,15 @@
+Born 1463 in Neval Prefecture, Nova Rheon. Tropez was an upstart entrepreneur. He tried his hand at everything. He studied all forms of business, seeking to become a powerful investor. He had accrued a small fund from his upper-middle class upbringing, but always dreamed of something bigger.
+
+At the age of 18, Tropez set out from home out on the road to seek his fortune. He made deals, struck bargains, and failed horribly. He would end up losing his small fund through a sequence of bad deals with shipping companies. There he fell on his luck, with no where to go.
+
+At his lowest moment of luck, he met the would be [[Concordia Davenport]]. She also came from an upper-middle class family and took pity on the poor investor, sharing a connection in them both losing money during their shipping company investments. It was a great struggle to convince Concordia's father to approve of Tropez, but eventually won over his approval through one great investment in a mining equipment company that just after Tropez & Concordia's invested, invented a powerful new electric miner drill for miners to carry when digging for coal. This made production explode across the coal miner regions of Nova Rheon and made the duo a sizeable fortune. 
+
+With Concordia's father's approval, Concordia and Tropez were married in 1489, and would have their first child [[Arthur Davenport]], that following year. Together they settled down for a bit and enjoyed family life. Eventually having a second child, [[Gawain Wilson]]. Their two sons grew up in pleasant wealth, not exuberant, but not upper-middle class. This was a nice life, but Tropez had, and always would be, a dreamer. He dreamed of something greater for his family, for the Davenport name. He saw investments pass him by as he fully focused on his family. Eventually, he simply couldn't sit by idly anymore.
+
+He spoke with Concordia about founding a new company, something grand. It was a lot of debate and preparation, but eventually, they both realized that they were ready for new challenges, not just the challenges of raising a family, but the challenges of navigating a changing nation. The industrial revolution had been in full swing for 150 years and was only getting bigger. With new innovation, this was the chance for something great.
+
+Together, Tropez and Concordia founded [[Nova Coal Co.]], a new coal mining company. It sought to become the grandest and most powerful coal company of them all. To seek and dominate the industry. Together they spent the rest of their lives growing their company. They made powerful deals, strong allies, and backstabbed clients. Through exploitation, cutbacks, new innovations, and company towns, they rose to power.
+
+In 1500, [[Nova Coal Co.]] was deemed the most powerful coal company in Nova Rheon and was a publicly a proud ally of the government. Tropez had done it, not only succeeded in raising a family, but also rising to the heights of power, influence, and wealth that he had always dreamed of.
+
+He passed his company onto the dual ownership of [[Arthur Davenport]] and [[Gawain Wilson]], spent 3 years in retirement, and died in 1543 at the age of 80.

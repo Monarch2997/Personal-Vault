@@ -1,0 +1,1 @@
+Wife of [[Arthur Davenport]]
