@@ -55,7 +55,7 @@ Bedivere would often take over temporarily as COO while Galahad led his High Gua
 
 Just as Icarus flew to close to the sun, [[Ozymandias Inc.]] grew too powerful. Constant rumors of illegal operations, heavy exploitations, and rapid growth made [[Ozymandias Inc.]] a threat to the entire economy of Nova Rheon. If the Wilson's were right about anything, its that Nova Rheon was on a deeply socialist path, and that would be the death of the Davenport lineage. Rising social concerns about the power of the company and a new generation of politicians that refused the same bribes and threats as the previous generations caused crackdowns on powerful corporations. 
 
-In 1595, after nearly a decade of supremacy and growth FIGURE OUT TIMELINE
+In 1595, after nearly a decade of supremacy and growth FIGURE OUT TIMELINE.
 ##### 31-40 
 
 ##### 41-50 {Major Events: [[The CEO of Nova Rheon]], [[The Collapse]], [[Time to Join Astro Moros]]}

@@ -1,0 +1,6 @@
+
+# Pilot: Harper Verlane
+
+Harper Verlane was born in Ontario, Oregon on December 12th, 2015. Her parents were unfit to raise her half the time, usually due to either not wanting to deal with a young child, being high, or busy. During these times, Harper would go to her grandpa Samuel’s house which had an old dirt airfield. Harper would be taught how to fly by her grandpa and flying would be an escape from her parents and problems. Her grandpa died of heart attack at the age of 63(born 1975) shortly after she turned 18, which luckily allowed her to inherit Grandpa Samuel’s house, airfield, and plane, finally being able to escape her parents lack of care and pushing around. Although she was free from her parents, she would still inherit problems from them such as a general hatred of authority and a weed addiction. Harper would make a living for the next 5 years by offering flights by people who either needed a quick flight or some fun. Harper wants to beat her addiction to weed and escape her life in oregon. She hasn’t thought of any goals that are selfless.
+
+(TIMELINE & DATES HAVE BEEN RETCONNED, BROKEN TIMELINE CHARACTER)
