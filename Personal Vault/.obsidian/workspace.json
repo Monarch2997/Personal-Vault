@@ -20,6 +20,23 @@
               "icon": "lucide-file",
               "title": "Summary"
             }
+          },
+          {
+            "id": "d2d685b4e53582cb",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "D&D Characters/Galahad/Backstory/Lineage/Family Tree.canvas",
+                "viewState": {
+                  "x": -98.5778910223014,
+                  "y": 165.94979546663393,
+                  "zoom": 1.1102230246251565e-16
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Family Tree"
+            }
           }
         ]
       }
@@ -188,15 +205,18 @@
   },
   "active": "4a94ee9c12d2ada6",
   "lastOpenFiles": [
-    "D&D Characters/Galahad/Backstory/Lineage/2nd Generation/Arthur Davenport.md",
+    "D&D Characters/Galahad/Backstory/Philosophies/the world owes the Davenports.md",
     "D&D Characters/Galahad/Backstory/Summary.md",
+    "D&D Characters/Galahad/Backstory/Philosophies",
+    "D&D Characters/Galahad/Backstory/Organizations/Davenport High Guard.md",
     "D&D Characters/Galahad/Backstory/Lineage/Family Tree.canvas",
+    "D&D Characters/Galahad/Backstory/Lineage/2nd Generation/Arthur Davenport.md",
     "D&D Characters/Galahad/Backstory/Lineage/4th Generation/Lancelot Davenport.md",
     "D&D Characters/Galahad/Backstory/Organizations/Ozymandias Inc..md",
     "D&D Characters/Galahad/Backstory/Lineage/4th Generation/Galahad Ozzie Davenport.md",
     "D&D Characters/Galahad/Backstory/Lineage/4th Generation/Bedivere Davenport.md",
     "D&D Characters/Galahad/Backstory/Lineage/3rd Generation/Fawkes Davenport.md",
-    "D&D Characters/Galahad/Backstory/Playing the Game through the Power and the Glory.md",
+    "D&D Characters/Galahad/Backstory/Philosophies/Playing the Game through the Power and the Glory.md",
     "D&D Characters/Galahad/Backstory/Lineage/1st Generation/Tropez Davenport.md",
     "D&D Characters/Galahad/Backstory/Lineage/1st Generation/Concordia Davenport.md",
     "D&D Characters/Galahad/Backstory/Lineage/2nd Generation/Gawain Wilson.md",
@@ -215,14 +235,12 @@
     "D&D Characters/Galahad/Backstory/Organizations/Davenport Coal Co..md",
     "D&D Characters/Galahad/Backstory/Organizations/Caelum Coal Co..md",
     "D&D Characters/Galahad/Powers/Human Race.md",
-    "D&D Characters/Galahad/Powers/Commander Class.md",
     "D&D Characters/Galahad/Powers/Untitled",
     "D&D Characters/Galahad/Backstory/Lineage/By-Marrige",
     "D&D Characters/Galahad/Backstory/Lineage/4th Generation",
     "D&D Characters/Galahad/Backstory/Lineage/3rd Generation",
     "D&D Characters/Galahad/Backstory/Lineage/2nd Generation",
     "D&D Characters/Galahad/Backstory/Major Events",
-    "D&D Characters/Galahad/Backstory/Organizations",
-    "D&D Characters/Galahad/Backstory"
+    "D&D Characters/Galahad/Backstory/Organizations"
   ]
 }
