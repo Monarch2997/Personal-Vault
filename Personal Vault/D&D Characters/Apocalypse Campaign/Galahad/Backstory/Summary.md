@@ -119,3 +119,13 @@ Galahad couldn't do anything now. He was in prison, with no where to go, no solu
 In the darkness of Galahad's situation, a light found its way to him. In 1613, the Astro Moros corporation reached out to Galahad. They offered him parole, opportunity, and most of all, power. Not in the sense of wealth or control as Galahad new, but a strange new power. He didn't fully understand the concept of the Archetype while sitting at the negotiation table with the Astro Moros representative, but with no option in sight, he took their offer. Galahad was let out of federal prison, and shipped off to Annuum-Lyra.
 
 Now he seeks whatever special power that Astro Moros can offer, something, anything, to put the Davenport Family back on top.
+
+
+TODO:
+
+1. Lancelot story
+2. what Bedivere was doing personally this whole times
+3. Important Praetorian Guard
+4. What exactly happened to the [[Davenport High Guard]]
+5. What happened to the [[Caelum Coal Co.]]
+6. Full backstory on the 3rd generation + finish 2nd generation
