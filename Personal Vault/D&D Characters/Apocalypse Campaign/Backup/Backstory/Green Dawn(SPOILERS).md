@@ -3,5 +3,5 @@
 ![[2(SPOILERS).png]]
 
 # Kalgorath, the Outworlder
-*Interloper, Penitent, Selenid, Atom Archetype*
+*Interloper, Selenid, Facsimile, Atom Archetype*
 
