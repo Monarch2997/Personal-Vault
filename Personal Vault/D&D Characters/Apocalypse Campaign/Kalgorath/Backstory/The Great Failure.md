@@ -39,4 +39,4 @@ The Kicharii close in, attempting to consume the immense amount of matter and po
 
 Nothing remains in the realm of Kalgorath that the Kicharii have not consumed, the party now can leave.
 
-See [[Green Dawn(SPOILERS)]]
+See [[Green Dawn]]

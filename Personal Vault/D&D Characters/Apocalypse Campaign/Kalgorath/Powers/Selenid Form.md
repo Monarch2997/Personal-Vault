@@ -1,0 +1,12 @@
+- **Unreliable Sustenance:** Due to their hybridized nature, the Selenids are diverse in what they really on, while some may rely on food for sustenance, others rely on a battery.
+- **Engramic:** Head shots do not apply to this form.
+
+- +2 to Intelligence
+- +1 to Wisdom
+- 30ft movement
+- Ænglisc and countless useless past languages(gibberish pretty much) known
+- Proficient in Deception
+- Medium size
+- Synthetic Flesh (Immune to electric, Resis Noetic, cold, and slash, vulnerable to miasma and toxic)
+- Selenids may be healed through organic and inorganic methods.
+- Hunger

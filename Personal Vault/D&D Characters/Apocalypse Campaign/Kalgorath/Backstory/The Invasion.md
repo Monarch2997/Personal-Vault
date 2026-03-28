@@ -1,11 +1,5 @@
 
 
-To Do:
-
-1. Write the plan for Kalgorath during the Kicharii invasion
-2. Tie in Kalgorath to Elpis
-3. Create the character of Kalgorath and his mission towards Tarcas
-
 ### Kalgorath during the Kicharii Invasion
 *This part will need the most redo work and planning as this is the session of Kalgorath during the Finale.*
 Kalgorath will be mostly unaware of the Kicharii until too late. With all forces capable of fighting them trapped within their separate realms, there is no one to detect them as the enter. Structurally, the realms of Kalgorath go:
@@ -71,7 +65,7 @@ If the portal ritual is successful, then evil magics pour into the temple, corru
 
 If the awakening ritual is successful, then the Holy Maker is awakened with markings of the Orb imprinted on his spirit. 
 
-The party must try to stop both, if they are successful, they can then awaken the Holy Maker on their own. They can do so through (RITUAL I WILL FIGURE OUT)
+The party must try to stop both, if they are successful, they can then awaken the Holy Maker on their own. They can do so through (RITUAL WE WILL FIGURE OUT)
 
 Over the course of the session, these are the party missions:
 	1. Find the Kalgorath party and recruit them
@@ -80,6 +74,6 @@ Over the course of the session, these are the party missions:
 	4. Stop the Rituals
 	5. Flee
 
-See [[The Great Failure(SPOILERS)]]
+See [[The Great Failure]]
 
 

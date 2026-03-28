@@ -70,6 +70,6 @@ We have few instructions as the Holy Maker's angels. We as angels must never go 
 
 ~ Raphael
 
-See [[The Invasion(SPOILERS)]]
+See [[The Invasion]]
 
 
