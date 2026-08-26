@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/1.1 Propositions and Logical Operations.md",
+                "file": "University/Discrete Mathematics/Unit 1/1.1 Propositions and Logical Operations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "1.1 Propositions and Logical Operations"
             }
+          },
+          {
+            "id": "6ca44b3c2611d525",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "University/Assignment Tracker.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Assignment Tracker"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,15 +199,19 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "calendarium:Open Calendarium": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "503a95f437677db1",
+  "active": "cc6932b9267f888a",
   "lastOpenFiles": [
+    "University/Discrete Mathematics/Unit 1/1.1 Propositions and Logical Operations.md",
+    "University/Assignment Tracker.md",
+    "University/English 102",
+    "University",
+    "University/Discrete Mathematics/Unit 1",
     "Tyrian Tether DLC - Old Island Blues/Summary.md",
-    "Mathematics/1.1 Propositions and Logical Operations.md",
-    "Mathematics",
+    "University/Discrete Mathematics",
     "Tyrian Tether DLC - Old Island Blues/Locations/Hakioawa (Kahoolawe).md",
     "Tyrian Tether DLC - Old Island Blues/Locations/Temples of the Akua Clan/Untitled.md",
     "Tyrian Tether DLC - Old Island Blues/Locations/Temples of the Akua Clan",
@@ -221,11 +240,7 @@
     "Tyrian Tether DLC - Old Island Blues/Archetypes/Pohō.md",
     "Tyrian Tether DLC - Old Island Blues/Factions/Akua Clan/Nightmarchers",
     "Tyrian Tether DLC - Old Island Blues/Factions/Akua Clan/Ali'i",
-    "Tyrian Tether DLC - Old Island Blues/Factions/Akua Clan/Koa",
-    "Tyrian Tether DLC - Old Island Blues/Factions/Kamakai'na Government",
     "Tyrian Tether DLC - Old Island Blues/Factions/Untitled.md",
-    "Tyrian Tether DLC - Old Island Blues/Factions/Kamakai'na Government.md",
-    "Tyrian Tether DLC - Old Island Blues/Factions/Akua Clan",
     "D&D Characters/Apocalypse Campaign/Kalgorath/Backstory/2(dont read from here).png",
     "D&D Characters/Apocalypse Campaign/Kalgorath/Backstory/1(dont read from here).png",
     "D&D Characters/Apocalypse Campaign/Galahad/Backstory/Lineage/Family Tree.canvas",
