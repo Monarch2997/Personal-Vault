@@ -8,45 +8,51 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d2d685b4e53582cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tyrian Tether DLC - Old Island Blues/Extra Notes/Somewhere in the blue....md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Somewhere in the blue..."
-            }
-          },
-          {
             "id": "503a95f437677db1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "D&D Characters/Apocalypse Campaign/Kalgorath/Backstory/The Invasion.md",
+=======
+                "file": "University/Discrete Mathematics/Unit 1/1.1 Propositions and Logical Operations.md",
+>>>>>>> f19e245ab54d88182619ebcab4f50a7e00dd5d17
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "The Invasion"
             }
           },
           {
             "id": "26ccdcf31bd1ded3",
+=======
+              "title": "1.1 Propositions and Logical Operations"
+            }
+          },
+          {
+            "id": "6ca44b3c2611d525",
+>>>>>>> f19e245ab54d88182619ebcab4f50a7e00dd5d17
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "40k/Emeris The Everloving.md",
+=======
+                "file": "University/Assignment Tracker.md",
+>>>>>>> f19e245ab54d88182619ebcab4f50a7e00dd5d17
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "Emeris The Everloving"
+=======
+              "title": "Assignment Tracker"
+>>>>>>> f19e245ab54d88182619ebcab4f50a7e00dd5d17
             }
           }
         ],
@@ -70,7 +76,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -215,6 +223,7 @@
       "calendarium:Open Calendarium": false
     }
   },
+<<<<<<< HEAD
   "active": "26ccdcf31bd1ded3",
   "lastOpenFiles": [
     "Pasted image 20260708184044.png",
@@ -227,6 +236,17 @@
     "D&D Characters/Apocalypse Campaign/Kalgorath/Backstory/2(dont read from here).png",
     "D&D Characters/Apocalypse Campaign/Kalgorath/Backstory/1(dont read from here).png",
     "Tyrian Tether DLC - Old Island Blues/Summary.md",
+=======
+  "active": "cc6932b9267f888a",
+  "lastOpenFiles": [
+    "University/Discrete Mathematics/Unit 1/1.1 Propositions and Logical Operations.md",
+    "University/Assignment Tracker.md",
+    "University/English 102",
+    "University",
+    "University/Discrete Mathematics/Unit 1",
+    "Tyrian Tether DLC - Old Island Blues/Summary.md",
+    "University/Discrete Mathematics",
+>>>>>>> f19e245ab54d88182619ebcab4f50a7e00dd5d17
     "Tyrian Tether DLC - Old Island Blues/Locations/Hakioawa (Kahoolawe).md",
     "Tyrian Tether DLC - Old Island Blues/Locations/Temples of the Akua Clan/Untitled.md",
     "Tyrian Tether DLC - Old Island Blues/Locations/Temples of the Akua Clan",
@@ -253,9 +273,15 @@
     "Tyrian Tether DLC - Old Island Blues/Archetypes/Nightmarcher.md",
     "Tyrian Tether DLC - Old Island Blues/Factions/Akua Clan/Nightmarchers",
     "Tyrian Tether DLC - Old Island Blues/Factions/Akua Clan/Ali'i",
+<<<<<<< HEAD
     "Tyrian Tether DLC - Old Island Blues/Factions/Akua Clan/Koa",
     "Tyrian Tether DLC - Old Island Blues/Factions/Kamakai'na Government",
     "Tyrian Tether DLC - Old Island Blues/Factions/Akua Clan",
+=======
+    "Tyrian Tether DLC - Old Island Blues/Factions/Untitled.md",
+    "D&D Characters/Apocalypse Campaign/Kalgorath/Backstory/2(dont read from here).png",
+    "D&D Characters/Apocalypse Campaign/Kalgorath/Backstory/1(dont read from here).png",
+>>>>>>> f19e245ab54d88182619ebcab4f50a7e00dd5d17
     "D&D Characters/Apocalypse Campaign/Galahad/Backstory/Lineage/Family Tree.canvas",
     "D&D Characters/Galahad/Backstory/Lineage/Family Tree.canvas"
   ]
