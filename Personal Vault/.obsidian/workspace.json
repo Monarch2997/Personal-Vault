@@ -1,76 +1,41 @@
 {
   "main": {
-    "id": "59f41200b76ab8c2",
+    "id": "8b8f292c5c092b09",
     "type": "split",
     "children": [
       {
-        "id": "40061d212d251191",
+        "id": "6d8f6c515d12b1be",
         "type": "tabs",
         "children": [
           {
-            "id": "503a95f437677db1",
+            "id": "1992c97149e11e74",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "D&D Characters/Apocalypse Campaign/Kalgorath/Backstory/The Invasion.md",
-=======
-                "file": "University/Discrete Mathematics/Unit 1/1.1 Propositions and Logical Operations.md",
->>>>>>> f19e245ab54d88182619ebcab4f50a7e00dd5d17
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-<<<<<<< HEAD
-              "title": "The Invasion"
-            }
-          },
-          {
-            "id": "26ccdcf31bd1ded3",
-=======
-              "title": "1.1 Propositions and Logical Operations"
-            }
-          },
-          {
-            "id": "6ca44b3c2611d525",
->>>>>>> f19e245ab54d88182619ebcab4f50a7e00dd5d17
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-<<<<<<< HEAD
-                "file": "40k/Emeris The Everloving.md",
-=======
                 "file": "University/Assignment Tracker.md",
->>>>>>> f19e245ab54d88182619ebcab4f50a7e00dd5d17
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-<<<<<<< HEAD
-              "title": "Emeris The Everloving"
-=======
               "title": "Assignment Tracker"
->>>>>>> f19e245ab54d88182619ebcab4f50a7e00dd5d17
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "54fcba68c69d2e21",
+    "id": "95f3cc5af17aa773",
     "type": "split",
     "children": [
       {
-        "id": "59a0d1edfabe5d2d",
+        "id": "168c09717a5c3ae1",
         "type": "tabs",
         "children": [
           {
-            "id": "cc6932b9267f888a",
+            "id": "3c89250f82abbc2c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -85,7 +50,7 @@
             }
           },
           {
-            "id": "60d7df38c121b078",
+            "id": "82fc8854ba6e3b02",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -102,11 +67,14 @@
             }
           },
           {
-            "id": "76540b5c6d560e4d",
+            "id": "e8d84ff65e540443",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
@@ -118,20 +86,20 @@
     "width": 300
   },
   "right": {
-    "id": "cf38f24e2a2b21c6",
+    "id": "a196b8c64885b116",
     "type": "split",
     "children": [
       {
-        "id": "890397fc13c8b2b3",
+        "id": "ae26086677289092",
         "type": "tabs",
         "children": [
           {
-            "id": "626f4b0b06d8df6a",
+            "id": "001113ea4e552ac6",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "University/Assignment Tracker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,25 +109,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "2cb184d6fb69de1b",
+            "id": "be4ead41133537c7",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "University/Assignment Tracker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "a887fccdf040f735",
+            "id": "44c9fcfeb3a477e0",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -174,7 +142,7 @@
             }
           },
           {
-            "id": "ab6becd10172ce04",
+            "id": "2cf82a28ad29c8aa",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -188,18 +156,18 @@
             }
           },
           {
-            "id": "57ab37200227b92a",
+            "id": "a85f7332ef3b7106",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "University/Assignment Tracker.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline"
             }
           }
         ]
@@ -223,66 +191,6 @@
       "calendarium:Open Calendarium": false
     }
   },
-<<<<<<< HEAD
-  "active": "26ccdcf31bd1ded3",
-  "lastOpenFiles": [
-    "Pasted image 20260708184044.png",
-    "Pasted image 20260708184020.png",
-    "D&D Characters/Apocalypse Campaign/Kalgorath/Backstory/The Invasion.md",
-    "40k/Emeris The Everloving.md",
-    "40k",
-    "D&D Characters/Apocalypse Campaign/Kalgorath/Backstory/The Dawn of Reality.md",
-    "D&D Characters/Apocalypse Campaign/Kalgorath/Backstory/Green Dawn.md",
-    "D&D Characters/Apocalypse Campaign/Kalgorath/Backstory/2(dont read from here).png",
-    "D&D Characters/Apocalypse Campaign/Kalgorath/Backstory/1(dont read from here).png",
-    "Tyrian Tether DLC - Old Island Blues/Summary.md",
-=======
-  "active": "cc6932b9267f888a",
-  "lastOpenFiles": [
-    "University/Discrete Mathematics/Unit 1/1.1 Propositions and Logical Operations.md",
-    "University/Assignment Tracker.md",
-    "University/English 102",
-    "University",
-    "University/Discrete Mathematics/Unit 1",
-    "Tyrian Tether DLC - Old Island Blues/Summary.md",
-    "University/Discrete Mathematics",
->>>>>>> f19e245ab54d88182619ebcab4f50a7e00dd5d17
-    "Tyrian Tether DLC - Old Island Blues/Locations/Hakioawa (Kahoolawe).md",
-    "Tyrian Tether DLC - Old Island Blues/Locations/Temples of the Akua Clan/Untitled.md",
-    "Tyrian Tether DLC - Old Island Blues/Locations/Temples of the Akua Clan",
-    "Tyrian Tether DLC - Old Island Blues/Locations/Hoaloaloa Village.md",
-    "Tyrian Tether DLC - Old Island Blues/Locations/Kiluaea Outlook Base.md",
-    "Tyrian Tether DLC - Old Island Blues/Factions/Akua Clan/Akua Clan.md",
-    "Tyrian Tether DLC - Old Island Blues/Extra Notes/Mana'osis.md",
-    "Tyrian Tether DLC - Old Island Blues/Locations",
-    "Tyrian Tether DLC - Old Island Blues/Extra Notes/Somewhere in the blue....md",
-    "Tyrian Tether DLC - Old Island Blues/ALERT.md",
-    "Tyrian Tether DLC - Old Island Blues/Extra Notes",
-    "Tyrian Tether DLC - Old Island Blues/Factions/Children of Maoli/Kamapua'a.md",
-    "Tyrian Tether DLC - Old Island Blues/Archetypes/Pua'a.md",
-    "Tyrian Tether DLC - Old Island Blues/Factions/Akua Clan/Ali'i/Zhengi.md",
-    "Tyrian Tether DLC - Old Island Blues/Factions/Children of Maoli",
-    "Tyrian Tether DLC - Old Island Blues/Factions/Akua Clan/Ali'i/Khanzo.md",
-    "Tyrian Tether DLC - Old Island Blues/Factions/Akua Clan/Ali'i/Jubei'thos.md",
-    "Tyrian Tether DLC - Old Island Blues/Factions/Akua Clan/Ali'i/Hou'kane.md",
-    "Tyrian Tether DLC - Old Island Blues/Factions/Akua Clan/Ali'i/Genjuro.md",
-    "Tyrian Tether DLC - Old Island Blues/Archetypes/Kane.md",
-    "Tyrian Tether DLC - Old Island Blues/Archetypes/Kau'ana.md",
-    "Tyrian Tether DLC - Old Island Blues/Archetypes/Mano.md",
-    "Tyrian Tether DLC - Old Island Blues/Archetypes/Menehune.md",
-    "Tyrian Tether DLC - Old Island Blues/Archetypes/Nightmarcher.md",
-    "Tyrian Tether DLC - Old Island Blues/Factions/Akua Clan/Nightmarchers",
-    "Tyrian Tether DLC - Old Island Blues/Factions/Akua Clan/Ali'i",
-<<<<<<< HEAD
-    "Tyrian Tether DLC - Old Island Blues/Factions/Akua Clan/Koa",
-    "Tyrian Tether DLC - Old Island Blues/Factions/Kamakai'na Government",
-    "Tyrian Tether DLC - Old Island Blues/Factions/Akua Clan",
-=======
-    "Tyrian Tether DLC - Old Island Blues/Factions/Untitled.md",
-    "D&D Characters/Apocalypse Campaign/Kalgorath/Backstory/2(dont read from here).png",
-    "D&D Characters/Apocalypse Campaign/Kalgorath/Backstory/1(dont read from here).png",
->>>>>>> f19e245ab54d88182619ebcab4f50a7e00dd5d17
-    "D&D Characters/Apocalypse Campaign/Galahad/Backstory/Lineage/Family Tree.canvas",
-    "D&D Characters/Galahad/Backstory/Lineage/Family Tree.canvas"
-  ]
+  "active": "1992c97149e11e74",
+  "lastOpenFiles": []
 }
