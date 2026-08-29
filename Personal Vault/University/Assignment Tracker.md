@@ -1,9 +1,8 @@
 ### Discrete Mathematics:
 Professor is fixing systems
 ### English 102:
-##### very important
-- [ ] 1.04
-- [ ] 1.05
+- [x] 1.04
+- [x] 1.05
 - [ ] 1.06
 - [ ] 1.08
 ### Honors 198:
@@ -24,6 +23,6 @@ All of Module 1, due by Sunday 30th
 - [ ] Laptop
 ### GIMM 110 Interactive Programming:
 ##### very important
-- [ ] Higher Education video
-- [ ] All assigned reading
+- [ ] All assigned reading (1st link is blocked)
 - [ ] Research GIMM current projects
+- [ ] Write Discussions
