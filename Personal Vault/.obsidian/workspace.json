@@ -13,12 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< Updated upstream
                 "file": "University/Assignment Tracker.md",
+=======
+                "file": "University/Discrete Mathematics/Unit 1/1.1 Propositions and Logical Operations.md",
+>>>>>>> Stashed changes
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< Updated upstream
               "title": "Assignment Tracker"
+=======
+              "title": "1.1 Propositions and Logical Operations"
+>>>>>>> Stashed changes
             }
           }
         ]
@@ -190,14 +198,21 @@
   },
   "active": "6ca44b3c2611d525",
   "lastOpenFiles": [
+<<<<<<< Updated upstream
     "University/GIMM 100 Digital Tools/Maya notes.md",
     "University/Assignment Tracker.md",
+=======
+    "University/Assignment Tracker.md",
+    "Pasted image 20260828095623.png",
+    "University/GIMM 100 Digital Tools/Maya notes.md",
+    "University/Discrete Mathematics/Unit 1/1.1 Propositions and Logical Operations.md",
+    "Pasted image 20260828092427.png",
+>>>>>>> Stashed changes
     "University/Discrete Mathematics/Pasted image 20260708184044.png",
     "University/GIMM 100 Digital Tools",
     "University/Discrete Mathematics/Pasted image 20260708184020.png",
     "40k/Emeris The Everloving.md",
     "40k",
-    "University/Discrete Mathematics/Unit 1/1.1 Propositions and Logical Operations.md",
     "University/Discrete Mathematics/Unit 1/1.1.md",
     "University/English 102",
     "University",
