@@ -1,32 +1,24 @@
 {
   "main": {
-    "id": "59f41200b76ab8c2",
+    "id": "2df5df504f046a75",
     "type": "split",
     "children": [
       {
-        "id": "40061d212d251191",
+        "id": "0c52eed06bf7caf1",
         "type": "tabs",
         "children": [
           {
-            "id": "6ca44b3c2611d525",
+            "id": "ded944338fad0188",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< Updated upstream
-                "file": "University/Assignment Tracker.md",
-=======
-                "file": "University/Discrete Mathematics/Unit 1/1.1 Propositions and Logical Operations.md",
->>>>>>> Stashed changes
+                "file": "University/Discrete Mathematics/Unit 1/1.4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-<<<<<<< Updated upstream
-              "title": "Assignment Tracker"
-=======
-              "title": "1.1 Propositions and Logical Operations"
->>>>>>> Stashed changes
+              "title": "1.4"
             }
           }
         ]
@@ -35,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "54fcba68c69d2e21",
+    "id": "6ff00ebd8ff118b6",
     "type": "split",
     "children": [
       {
-        "id": "59a0d1edfabe5d2d",
+        "id": "472fcb7913ab0c1c",
         "type": "tabs",
         "children": [
           {
-            "id": "cc6932b9267f888a",
+            "id": "c8e84b019825bf06",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -58,7 +50,7 @@
             }
           },
           {
-            "id": "60d7df38c121b078",
+            "id": "5592898cc87357be",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -75,11 +67,14 @@
             }
           },
           {
-            "id": "76540b5c6d560e4d",
+            "id": "f34ec04a82feb96e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
@@ -91,20 +86,20 @@
     "width": 300
   },
   "right": {
-    "id": "cf38f24e2a2b21c6",
+    "id": "deecf844c73e5bae",
     "type": "split",
     "children": [
       {
-        "id": "890397fc13c8b2b3",
+        "id": "75824aa06baf05f4",
         "type": "tabs",
         "children": [
           {
-            "id": "626f4b0b06d8df6a",
+            "id": "c615b2dc3871d607",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "University/Discrete Mathematics/Unit 1/1.1 Propositions and Logical Operations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,25 +109,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "2cb184d6fb69de1b",
+            "id": "95e178f238244d91",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "University/Discrete Mathematics/Unit 1/1.1 Propositions and Logical Operations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "a887fccdf040f735",
+            "id": "aff1048c78a588e9",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -147,7 +142,7 @@
             }
           },
           {
-            "id": "ab6becd10172ce04",
+            "id": "b99ee0be3b5aa813",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -161,18 +156,18 @@
             }
           },
           {
-            "id": "57ab37200227b92a",
+            "id": "3bcf297a7caf3954",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "University/Discrete Mathematics/Unit 1/1.1 Propositions and Logical Operations.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline"
             }
           }
         ]
@@ -196,55 +191,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "6ca44b3c2611d525",
+  "active": "ded944338fad0188",
   "lastOpenFiles": [
-<<<<<<< Updated upstream
-    "University/GIMM 100 Digital Tools/Maya notes.md",
-    "University/Assignment Tracker.md",
-=======
-    "University/Assignment Tracker.md",
-    "Pasted image 20260828095623.png",
-    "University/GIMM 100 Digital Tools/Maya notes.md",
     "University/Discrete Mathematics/Unit 1/1.1 Propositions and Logical Operations.md",
-    "Pasted image 20260828092427.png",
->>>>>>> Stashed changes
-    "University/Discrete Mathematics/Pasted image 20260708184044.png",
-    "University/GIMM 100 Digital Tools",
-    "University/Discrete Mathematics/Pasted image 20260708184020.png",
-    "40k/Emeris The Everloving.md",
-    "40k",
-    "University/Discrete Mathematics/Unit 1/1.1.md",
-    "University/English 102",
-    "University",
-    "University/Discrete Mathematics/Unit 1",
-    "Tyrian Tether DLC - Old Island Blues/Summary.md",
-    "University/Discrete Mathematics",
-    "Tyrian Tether DLC - Old Island Blues/Locations/Hakioawa (Kahoolawe).md",
-    "Tyrian Tether DLC - Old Island Blues/Locations/Temples of the Akua Clan/Untitled.md",
-    "Tyrian Tether DLC - Old Island Blues/Locations/Temples of the Akua Clan",
-    "Tyrian Tether DLC - Old Island Blues/Locations/Hoaloaloa Village.md",
-    "Tyrian Tether DLC - Old Island Blues/Locations/Kiluaea Outlook Base.md",
-    "Tyrian Tether DLC - Old Island Blues/Factions/Akua Clan/Akua Clan.md",
-    "Tyrian Tether DLC - Old Island Blues/Extra Notes/Mana'osis.md",
-    "Tyrian Tether DLC - Old Island Blues/Locations",
-    "Tyrian Tether DLC - Old Island Blues/Extra Notes/Somewhere in the blue....md",
-    "Tyrian Tether DLC - Old Island Blues/ALERT.md",
-    "Tyrian Tether DLC - Old Island Blues/Extra Notes",
-    "Tyrian Tether DLC - Old Island Blues/Factions/Children of Maoli/Kamapua'a.md",
-    "Tyrian Tether DLC - Old Island Blues/Archetypes/Pua'a.md",
-    "Tyrian Tether DLC - Old Island Blues/Factions/Akua Clan/Ali'i/Zhengi.md",
-    "Tyrian Tether DLC - Old Island Blues/Factions/Children of Maoli",
-    "Tyrian Tether DLC - Old Island Blues/Factions/Akua Clan/Ali'i/Khanzo.md",
-    "Tyrian Tether DLC - Old Island Blues/Factions/Akua Clan/Ali'i/Jubei'thos.md",
-    "Tyrian Tether DLC - Old Island Blues/Factions/Akua Clan/Ali'i/Hou'kane.md",
-    "Tyrian Tether DLC - Old Island Blues/Factions/Akua Clan/Ali'i/Genjuro.md",
-    "Tyrian Tether DLC - Old Island Blues/Archetypes/Kane.md",
-    "Tyrian Tether DLC - Old Island Blues/Archetypes/Kau'ana.md",
-    "Tyrian Tether DLC - Old Island Blues/Archetypes/Mano.md",
-    "Tyrian Tether DLC - Old Island Blues/Archetypes/Menehune.md",
-    "D&D Characters/Apocalypse Campaign/Kalgorath/Backstory/2(dont read from here).png",
-    "D&D Characters/Apocalypse Campaign/Kalgorath/Backstory/1(dont read from here).png",
-    "D&D Characters/Apocalypse Campaign/Galahad/Backstory/Lineage/Family Tree.canvas",
-    "D&D Characters/Galahad/Backstory/Lineage/Family Tree.canvas"
+    "University/Discrete Mathematics/Unit 1/1.4.md",
+    "University/Assignment Tracker.md"
   ]
 }
