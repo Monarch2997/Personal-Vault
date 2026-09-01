@@ -1,7 +1,7 @@
 ### Discrete Mathematics:
 - [ ] Organize math notes into 1.1-1.4 based on the PDF's
 - [ ] purchase zybook
-- [ ] move Emeris art into 40k
+- [x] move Emeris art into 40k
 ### English 102:
 - [ ] 1.06
 - [ ] 1.08

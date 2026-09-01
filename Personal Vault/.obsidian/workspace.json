@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/Discrete Mathematics/Unit 1/1.4.md",
+                "file": "University/Discrete Mathematics/Unit 1/1.1 Propositions and Logical Operations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.4"
+              "title": "1.1 Propositions and Logical Operations"
             }
           }
         ]
@@ -193,8 +193,10 @@
   },
   "active": "ded944338fad0188",
   "lastOpenFiles": [
+    "University/Assignment Tracker.md",
     "University/Discrete Mathematics/Unit 1/1.1 Propositions and Logical Operations.md",
+    "University/Discrete Mathematics/Pasted image 20260828092427.png",
     "University/Discrete Mathematics/Unit 1/1.4.md",
-    "University/Assignment Tracker.md"
+    "40k/Pasted image 20260708184044.png"
   ]
 }
