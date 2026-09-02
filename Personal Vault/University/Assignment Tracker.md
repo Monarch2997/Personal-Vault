@@ -19,3 +19,4 @@
 ### GIMM 110 Interactive Programming:
 - [ ] Read parts 1&2 (chapters 1-10) of Reality is Broken and make three discussion questions
 - [ ] Complete 3 unity 2d platformer tutorials
+- [ ] Join the discord
