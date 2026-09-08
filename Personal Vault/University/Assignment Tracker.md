@@ -1,6 +1,4 @@
 ### Discrete Mathematics:
-- [ ] Organize math notes into 1.1-1.7 based on the PDF's
-- [ ] purchase zybook
 - [ ] HW set 2
 ### English 102:
 - [ ] Preparing to Write activity
