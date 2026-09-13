@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "47a88e11e1db8864",
+        "id": "0c52eed06bf7caf1",
         "type": "tabs",
         "children": [
           {
-            "id": "841e59223e0e8394",
+            "id": "ded944338fad0188",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -187,24 +187,23 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "calendarium:Open Calendarium": false
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "841e59223e0e8394",
+  "active": "ded944338fad0188",
   "lastOpenFiles": [
-    "University/GIMM 100 Digital Tools/Maya notes.md",
-    "University/Discrete Mathematics/Unit 1/1.1 Propositions and Logical Operations.md",
-    "University/GIMM 100 Digital Tools/Photoshop Tools for reference making.md",
-    "University/Discrete Mathematics/Unit 1/1.4.md",
-    "University/Discrete Mathematics/Unit 2/2.4.md",
-    "University/Discrete Mathematics/Unit 1/1.6, 1.7.md",
-    "40k/Emeris The Everloving.md",
     "D&D Characters/Apocalypse Campaign/Kalgorath/Finale Monster Sheet.md",
+    "University/Discrete Mathematics/Unit 2/2.4.md",
+    "University/Discrete Mathematics/Unit 2",
     "D&D Characters/Thalassaria/Navigator.md",
+    "40k/Emeris The Everloving.md",
     "University/Assignment Tracker.md",
     "D&D Characters/Thalassaria",
+    "University/Discrete Mathematics/Unit 1/1.6, 1.7.md",
+    "University/GIMM 100 Digital Tools/Maya notes.md",
+    "University/Discrete Mathematics/Unit 1/1.1 Propositions and Logical Operations.md",
     "University/Discrete Mathematics/Pasted image 20260828092427.png",
+    "University/Discrete Mathematics/Unit 1/1.4.md",
     "40k/Pasted image 20260708184044.png"
   ]
 }
