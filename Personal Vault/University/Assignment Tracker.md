@@ -1,5 +1,8 @@
 ### Discrete Mathematics:
+- [ ] HW3 - first half *Tonight or Thursday*
 ### English 102: 
+- [ ] Entry 2 & 3 *Tonight or thursday*
+- [ ] survey
 ### Honors 198: 
 - [ ] Assignment 3a Rough Draft Essay *Begin Thursday*
 - [ ] Reading quiz 5  *Do Thursday*
