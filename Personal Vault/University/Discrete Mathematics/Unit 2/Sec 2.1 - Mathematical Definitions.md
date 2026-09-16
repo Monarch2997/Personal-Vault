@@ -20,8 +20,6 @@ Let $n$ be an integer. Then:
 
 A number $x$ is **rational** if $x = \dfrac{a}{b}$ for some integers $a, b$ with $b \neq 0$.
 
-**Examples:** $\dfrac{1}{2}$, $3 = \dfrac{3}{1}$, $0.5 = \dfrac{1}{2}$, $-\dfrac{7}{3}$ are all rational.
-
 ---
 
 ## Definition 3 — Divisibility
@@ -45,12 +43,12 @@ Equivalently: "$y$ is divisible by $x$", "$y$ is a multiple of $x$", "$x$ is a f
 
 ## Properties of 0
 
-| Property | Result |
-|---|---|
-| **Parity** | Even ($0 = 2 \times 0$) |
-| **Rationality** | Rational ($0 = \dfrac{0}{1}$) |
+| Property         | Result                                                                                                  |
+| ---------------- | ------------------------------------------------------------------------------------------------------- |
+| **Parity**       | Even ($0 = 2 \times 0$)                                                                                 |
+| **Rationality**  | Rational ($0 = \dfrac{0}{1}$)                                                                           |
 | **Divisibility** | Every nonzero integer divides $0$ (since $0 = n \times 0$); but $0$ does not divide any nonzero integer |
-| **Primality** | Neither prime nor composite (fails $n \geq 2$ requirement) |
+| **Primality**    | Neither prime nor composite (fails $n \geq 2$ requirement)                                              |
 
 ## Properties of 1
 

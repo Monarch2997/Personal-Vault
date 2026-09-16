@@ -35,7 +35,7 @@ The domain is $\{1, 2\}$ (positive integers less than 3).
 - $n = 1$: $(1+1)^2 = 4$ and $3^1 = 3$. Since $4 \geq 3$, the statement holds.
 - $n = 2$: $(2+1)^2 = 9$ and $3^2 = 9$. Since $9 \geq 9$, the statement holds.
 
-Since the statement holds for every $n$ in the domain, it is proven. $\blacksquare$
+Since the statement holds for every $n$ in the domain, it is proven
 
 ---
 
