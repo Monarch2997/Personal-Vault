@@ -1,8 +1,8 @@
 ### Discrete Mathematics:
 - [ ] HW3 - first half *Tonight or Thursday*
 ### English 102: 
-- [ ] Entry 2 & 3 *Tonight or thursday*
-- [ ] survey
+- [x] Entry 2 & 3 *Tonight or thursday*
+- [x] survey
 ### Honors 198: 
 - [ ] Assignment 3a Rough Draft Essay *Begin Thursday*
 - [ ] Reading quiz 5  *Do Thursday*
@@ -20,4 +20,7 @@
 - [ ] Hand pose trigger *Do tonight or thursday*
 - [ ] Stub Implementation
 ### Current Demands:
-
+- [ ] Scenario 1 & 2 Module 4 *Do 1 & 2 tonight*
+- [x] Entry 2 & 3 *Tonight or thursday*
+- [x] HW3 - first half *Tonight or Thursday*
+- [ ]  Create game idea *Do tonight or thursday*
