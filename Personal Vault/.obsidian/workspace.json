@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "0c52eed06bf7caf1",
+        "id": "fa339f28a3985c4b",
         "type": "tabs",
         "children": [
           {
-            "id": "ded944338fad0188",
+            "id": "d91967c4dbd81176",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "University/Assignment Tracker.md",
-                "mode": "source",
-                "source": false
+                "file": "University/Discrete Mathematics/Unit 2/M189 Lecture on Sec 2.7 (outline).pdf"
               },
-              "icon": "lucide-file",
-              "title": "Assignment Tracker"
+              "icon": "lucide-file-text",
+              "title": "M189 Lecture on Sec 2.7 (outline)"
             }
           }
         ]
@@ -83,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
     "id": "deecf844c73e5bae",
@@ -191,42 +189,45 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "ded944338fad0188",
+  "active": "d91967c4dbd81176",
   "lastOpenFiles": [
-    "University/Discrete Mathematics/Unit 2/Sec 2.4-2.5 - Direct Proofs and Proof by Contrapositive.md",
-    "University/GIMM 110/Game Idea.md",
-    "University/GIMM 110/Expectations.md",
-    "University/GIMM 110",
-    "University/GIMM 100 Digital Tools/low-poly model ideas.md",
-    "University/GIMM 100 Digital Tools/27304-i-have-no-mouth-and-i-must-scream-2-3267848992.webp",
-    "University/Discrete Mathematics/Unit 2/Sec 2.7 - Proof by Cases.md",
-    "University/Discrete Mathematics/Unit 2/M189 Lecture on Sec 2.7 (outline).pdf",
-    "D&D Characters/Ending Campaigns/Bodger Origin/Quare/Summary.md",
-    "D&D Characters/Ending Campaigns/Bodger Origin/Quare",
-    "University/Discrete Mathematics/Unit 2/Sec 2.3 - Best Practices and Common Errors in Proofs.md",
-    "University/Discrete Mathematics/Unit 1/Sec 1.8 - De Morgan's Law for Quantified Statements.md",
-    "University/Discrete Mathematics/Unit 2/Sec 2.2 - Introduction to Proofs.md",
     "University/Discrete Mathematics/Unit 2/Sec 2.1 - Mathematical Definitions.md",
-    "University/Discrete Mathematics/Unit 2/M189 Lecture on Sec 2.1 (outline).pdf",
-    "University/Discrete Mathematics/Pasted image 20260828092427.png",
+    "University/Discrete Mathematics/Unit 2/Sec 2.7 - Proof by Cases.md",
+    "University/Discrete Mathematics/Unit 3/Sec 3.2 - Set of Sets (Power Sets).md",
+    "University/Discrete Mathematics/Unit 3/Sec 3.1 - Sets and Subsets.md",
+    "University/Discrete Mathematics/Unit 3/M189 Lecture on Sec 3.2 (outline).pdf",
+    "University/Discrete Mathematics/Unit 3/M189 Lecture on Sec 3.1 (outline).pdf",
+    "University/Discrete Mathematics/Unit 3",
     "University/Assignment Tracker.md",
-    "University/Discrete Mathematics/Unit 2/M189 Lecture on Sec 2.3 filledin.pdf",
-    "University/Discrete Mathematics/Unit 2/M189 Lecture on Sec 2.3 (outline).pdf",
-    "University/Discrete Mathematics/Unit 2/M189 Lecture on Sec 2.4, 2.5 (outline).pdf",
-    "University/Discrete Mathematics/Unit 2/M189 Lecture on Sec 1.8 (outline).pdf",
-    "University/Discrete Mathematics/Unit 2/M189 Lecture on Sec 2.2 (outline).pdf",
-    "University/Discrete Mathematics/Unit 2/2.4.md",
-    "University/Discrete Mathematics/Pasted image 20260828095623.png",
-    "University/Discrete Mathematics/Unit 1/1.6, 1.7.md",
-    "University/Discrete Mathematics/Unit 1/1.8.md",
-    "Untitled.canvas",
-    "University/Discrete Mathematics/Unit 1/1.1 Propositions and Logical Operations.md",
-    "University/Discrete Mathematics/Unit 1/1.4.md",
-    "D&D Characters/Apocalypse Campaign/Kalgorath/Finale Monster Sheet.md",
-    "University/Discrete Mathematics/Unit 2",
     "D&D Characters/Thalassaria/Te'lapa.md",
     "40k/Emeris The Everloving.md",
-    "University/GIMM 100 Digital Tools/Maya notes.md",
+    "D&D Characters/Kendelva/Morrow/Quick Note.md",
+    "D&D Characters/Kendelva/Makaha/Quick Note.md",
+    "D&D Characters/Kendelva/Chen/Quick Note.md",
+    "D&D Characters/Ending Campaigns/Finale Prelude/Equilibrium/Summary.md",
+    "D&D Characters/Ending Campaigns/Bodger Origin/Quare/Summary.md",
+    "D&D Characters/Apocalypse Campaign/Harper/Summary.md",
+    "D&D Characters/Amireath/Mosa/Summary.md",
+    "D&D Characters/Amireath/Eleanor/Table of Spirits.md",
+    "D&D Characters/Amireath/Eleanor/Summary.md",
+    "University/GIMM 110/Game Idea.md",
+    "University/GIMM 100 Digital Tools/low-poly model ideas.md",
+    "University/GIMM 100 Digital Tools/27304-i-have-no-mouth-and-i-must-scream-2-3267848992.webp",
+    "University/GIMM 110/Expectations.md",
+    "University/Discrete Mathematics/Unit 2/Sec 2.3 - Best Practices and Common Errors in Proofs.md",
+    "University/Discrete Mathematics/Unit 1/Sec 1.8 - De Morgan's Law for Quantified Statements.md",
+    "University/Discrete Mathematics/Unit 1/1.6, 1.7.md",
+    "University/Discrete Mathematics/Unit 2/Sec 2.4-2.5 - Direct Proofs and Proof by Contrapositive.md",
+    "University/Discrete Mathematics/Unit 2/Sec 2.2 - Introduction to Proofs.md",
+    "University/Discrete Mathematics/Unit 2/M189 Lecture on Sec 2.7 (outline).pdf",
+    "University/GIMM 110",
+    "University/Discrete Mathematics/Unit 2/M189 Lecture on Sec 2.4, 2.5 (outline).pdf",
+    "University/Discrete Mathematics/Unit 2/M189 Lecture on Sec 2.3 filledin.pdf",
+    "University/Discrete Mathematics/Unit 2/M189 Lecture on Sec 2.3 (outline).pdf",
+    "University/Discrete Mathematics/Unit 2/M189 Lecture on Sec 2.2 (outline).pdf",
+    "University/Discrete Mathematics/Unit 2/M189 Lecture on Sec 2.1 (outline).pdf",
+    "D&D Characters/Apocalypse Campaign/Kalgorath/Finale Monster Sheet.md",
+    "University/Discrete Mathematics/Pasted image 20260828092427.png",
     "40k/Pasted image 20260708184044.png"
   ]
 }
