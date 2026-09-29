@@ -10,7 +10,7 @@ This is to create a background, either to a travelable map or just to pass the p
 #### Walls
 To control player movement down paths and maze options
 ### NPC Entity:
-Another cube that has its own controller that seeks to interact with the player
+Another cube that has its own controller that seeks to interact with the player. They can be met, and then you can either talk your way out or fight your way out. Some weak minions must be fought.
 #### Damage System:
 This allows the player and the NPC to fight. I need HP, Damage per Attack, Enemy projectile, the ability to have on impact damage
 #### Movement 
@@ -24,6 +24,8 @@ to transport you from point A to point B seamlessly in the same or different lev
 ### Cinematic Screen:
 Allow the game to change while pausing player input
 ### Player Character
+#### Health and Armor
+Player HP for handling combat
 #### Inventory
 holding all of the treasures, unique items, and weapons, preferably a list in a UI menu
 Track ammo in inventory. Guns will not have reload for this game. Melee will not exist for player.
