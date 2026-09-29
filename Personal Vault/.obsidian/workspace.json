@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "fa339f28a3985c4b",
+        "id": "9828dbd9caf76788",
         "type": "tabs",
         "children": [
           {
-            "id": "d91967c4dbd81176",
+            "id": "46fcc218687f2149",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "University/Discrete Mathematics/Unit 2/M189 Lecture on Sec 2.7 (outline).pdf"
+                "file": "University/GIMM 110/Looper.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "M189 Lecture on Sec 2.7 (outline)"
+              "icon": "lucide-file",
+              "title": "Looper"
             }
           }
         ]
@@ -189,8 +191,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "d91967c4dbd81176",
+  "active": "46fcc218687f2149",
   "lastOpenFiles": [
+    "University/GIMM 110/Expectations.md",
+    "40k/Emeris The Everloving.md",
+    "University/Discrete Mathematics/Unit 2/M189 Lecture on Sec 2.7 (outline).pdf",
     "University/Discrete Mathematics/Unit 2/Sec 2.1 - Mathematical Definitions.md",
     "University/Discrete Mathematics/Unit 2/Sec 2.7 - Proof by Cases.md",
     "University/Discrete Mathematics/Unit 3/Sec 3.2 - Set of Sets (Power Sets).md",
@@ -200,7 +205,6 @@
     "University/Discrete Mathematics/Unit 3",
     "University/Assignment Tracker.md",
     "D&D Characters/Thalassaria/Te'lapa.md",
-    "40k/Emeris The Everloving.md",
     "D&D Characters/Kendelva/Morrow/Quick Note.md",
     "D&D Characters/Kendelva/Makaha/Quick Note.md",
     "D&D Characters/Kendelva/Chen/Quick Note.md",
@@ -210,16 +214,14 @@
     "D&D Characters/Amireath/Mosa/Summary.md",
     "D&D Characters/Amireath/Eleanor/Table of Spirits.md",
     "D&D Characters/Amireath/Eleanor/Summary.md",
-    "University/GIMM 110/Game Idea.md",
+    "University/GIMM 110/Looper.md",
     "University/GIMM 100 Digital Tools/low-poly model ideas.md",
     "University/GIMM 100 Digital Tools/27304-i-have-no-mouth-and-i-must-scream-2-3267848992.webp",
-    "University/GIMM 110/Expectations.md",
     "University/Discrete Mathematics/Unit 2/Sec 2.3 - Best Practices and Common Errors in Proofs.md",
     "University/Discrete Mathematics/Unit 1/Sec 1.8 - De Morgan's Law for Quantified Statements.md",
     "University/Discrete Mathematics/Unit 1/1.6, 1.7.md",
     "University/Discrete Mathematics/Unit 2/Sec 2.4-2.5 - Direct Proofs and Proof by Contrapositive.md",
     "University/Discrete Mathematics/Unit 2/Sec 2.2 - Introduction to Proofs.md",
-    "University/Discrete Mathematics/Unit 2/M189 Lecture on Sec 2.7 (outline).pdf",
     "University/GIMM 110",
     "University/Discrete Mathematics/Unit 2/M189 Lecture on Sec 2.4, 2.5 (outline).pdf",
     "University/Discrete Mathematics/Unit 2/M189 Lecture on Sec 2.3 filledin.pdf",
