@@ -1,4 +1,6 @@
 ## Needed Systems:
+### Score/Control:
+Every encounter with an entity will increase or decrease your control, which is shown as a score. Once you reach a score of 100, you gain great control of the realm and can challenge the boss(stranger from the store). If you win the battle, your score goes to 10 million or some bs, you gain full control of the realm and win the game
 ### GameState 
 Similar to unreal engines GameState that universally holds info between levels. You may be able to alternatively hold it in the player but its unlikely
 ### Freedom of Movement:
@@ -70,5 +72,5 @@ Unlocks at Occult 2, acquired in the mid-game. This lets you increase a stat dur
 ## Player
 ## NPC
 ## Tile-set
-## Weapons & other inventory itemss
+## Weapons & other inventory items
 ## Projectiles
