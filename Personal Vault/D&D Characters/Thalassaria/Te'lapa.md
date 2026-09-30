@@ -3,3 +3,23 @@
 ## Visual:
 
 ## Backstory:
+Te'lapa was born into the Oracles of the Shell, a small tide priest wayfarer group. Long ago, a vision called tide priests across the sea to the scattered isles, and beckoned them to go deep within the Grand Academy, specifically the college of Theology and the Unseen. Throughout this journey, continued visions drove them to pursue more and more, causing the wayfarers to delve into heavy psychedelics. This warped their mines and behaviors. 
+
+Eventually they found the Grand Academy, and to them, they gave an outstanding speech of the importance of their visit. To the Academy, they saw the insane ramblings of fate obsessed cultists. The tide priests were promptly denied and told to leave. Defeated and without weapons, they left and used their visions to find a place of home nearby. 
+
+They founded Manawa, their home under the stars. Built from a sandbank that would be wisped away under the sea during night, they found that they could conduct rituals and seek visions to find great crabs and other titanic shells. They collected them, and brought them back to Manawa. From there they forged them into a home that sent spirals of merged shells deep into the ocean below. The city itself is a complete maze, much of it is covered in magical repairs to patch water leakage into lower levels. The only main groups above water are the navigators(To run the boats) and where towers of shell are melded and stacked, stand the Oracles. Masters of seeing potential futures and guiding the right path.
+
+Since their denial of entrance and construction of Manawa, they have gone on great voyages across Thalassaria, all in search of finding the truth behind a vision seen by the oracles. Their greatest mission, is to find a way inside the furthest depths of the College of Theology and Unseen. Through visions and occasional failed teleport missions in, they have learned of the colleges goal to study what exists before the gods. They find it to be true and believe that they have tapped into the realm of these incomprehensible gods and only their continued adjustment to that realm and further diving into visions and psychedelics, will they be able to understands those gods. They seek not to worship, but to learn about them. The Farseer/leader of Manawa, Imi Ala, has recently discovered that the realm itself, by projecting into it, has allowed him to see the paths of fate, and can change them, guide people on them, and send visions. The power is brutally hard to control for a mortal soul and difficult to understand, so he hasn't played with it much, but its getting harder to resist. The more he uses this, the harder it is to keep such a power isolated to himself, and the more dangerous it will be for the Oracles of the Shell when the gods find out about this meddling.
+
+And now, for the story of Te'lapa. She was born 87 years ago in life spent. Like most tide priests of her people, most have been spent in great visions seeing potential futures. Her physical age is around 23. When she entered her late teens, her visions showed her that she was to become a great navigator. During her classes, she began to see a great golden light in her visions, far in the distance. It shined like light off coins. At first she told no one, but as she grew older the light only grew and became clearer. When she was an adult, she told her teaching seer about this element of her visions. He pushed her to reach for such a strange anomaly. In the beginning, this push was healthy. Her visions became clearer and she understood what she was seeing was some form of treasure.
+
+As she kept pushing, her ability to see more began to show less and less growth, and her seer, Hamana, became angry at her failiure. She had become obsessed with understanding what Te'lapa was seeing. A personal failure to find anything interesting or unique in her own visions became envy for Te'lapa's gift. She hoped to find it and take the knowledge for herself. 
+
+Teaching sessions would turn into fits of yelling as Te'lapa was unable to push further. 
+
+
+
+**First Sail Feast:**
+
+Taking place on Solvire 5th, it celebrates when young sailors are ripe for their first adventure, Tide Priests arrive from all corners of the seas and bless the vessels for good fortune upon releasing new seafaring strangers unto the tides.
+
