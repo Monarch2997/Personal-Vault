@@ -24,3 +24,5 @@ challenges:
 3. easy translation to game projects
 ### Bad challenges:
 1. Meeting complexity requirements
+
+# Go with Zuggurat

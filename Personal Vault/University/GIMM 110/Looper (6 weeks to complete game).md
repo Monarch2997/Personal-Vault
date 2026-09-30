@@ -1,3 +1,15 @@
+## Looper
+### Story:
+You play as a Walmart clerk, you were working the gun stand when a strange man came up to you. He refused to show any ID and demanded a weapon. You reasonable declined him. He launched you into another realm.
+
+Its just you and a gun in a seemingly endless series of odd passageways traveling through light and dark.  Your goal is to escape, all you have is your stand rifle and the bullets that came with it.  You do not know how many times you will have to use it. You will encounter different anomaly's in this realm. Some will be friendly, some not. Soon you learn of its name, Totem.
+
+As you play, you discover that the stranger, who the realm calls 3rd Oracle, has less control over this realm than you first thought. You slowly wrestle control of the realm away from him, eventually fighting him in a mind battle and winning. You awaken back at Walmart, slumped over the counter, your rifle on the floor. The 3rd Oracle drops dead before you, and full control of Totem passes onto you, the 4th Oracle.
+
+### Gameplay:
+You wake up in strange hallways, enter a room, speak with a anomaly, learn story, and then either fight or move on. You have three stats you pick at the start, suave, weird, and power. Suave makes you better at being peaceful with anomalies, power makes you better at fighting, and weird makes you unlock hand motions faster
+
+
 ## Needed Systems:
 ### Score/Control:
 Every encounter with an entity will increase or decrease your control, which is shown as a score. Once you reach a score of 100, you gain great control of the realm and can challenge the boss(stranger from the store). If you win the battle, your score goes to 10 million or some bs, you gain full control of the realm and win the game
