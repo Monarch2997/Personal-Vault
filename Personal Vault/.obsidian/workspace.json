@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/Discrete Mathematics/Unit 3/Sec 3.4 - More Set Operations.md",
+                "file": "University/GIMM 110/Looper (6 weeks to complete game).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sec 3.4 - More Set Operations"
+              "title": "Looper (6 weeks to complete game)"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/Discrete Mathematics/Unit 3/Sec 3.4 - More Set Operations.md",
+                "file": "University/GIMM 110/Looper (6 weeks to complete game).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,10 +192,11 @@
   },
   "active": "46fcc218687f2149",
   "lastOpenFiles": [
-    "University/Discrete Mathematics/Unit 3/Sec 3.2 - Set of Sets (Power Sets).md",
     "University/Discrete Mathematics/Unit 3/Sec 3.4 - More Set Operations.md",
-    "University/Discrete Mathematics/Unit 3/Sec 3.6 - Cartesian Products.md",
     "University/Discrete Mathematics/Unit 3/Sec 3.3 - Union and Intersection.md",
+    "University/Discrete Mathematics/Unit 3/Sec 3.2 - Set of Sets (Power Sets).md",
+    "University/Discrete Mathematics/Unit 3/Sec 3.1 - Sets and Subsets.md",
+    "University/Discrete Mathematics/Unit 3/Sec 3.6 - Cartesian Products.md",
     "University/Discrete Mathematics/Unit 1/Pasted image 20260828095623.png",
     "University/Discrete Mathematics/Unit 1/Pasted image 20260828092427.png",
     "University/Discrete Mathematics/Unit 3/M189 Lecture on Sec 3.6 (outline).pdf",
@@ -211,7 +212,6 @@
     "University/Discrete Mathematics/Unit 2/M189 Lecture on Sec 2.7 (outline).pdf",
     "University/Discrete Mathematics/Unit 2/Sec 2.1 - Mathematical Definitions.md",
     "University/Discrete Mathematics/Unit 2/Sec 2.7 - Proof by Cases.md",
-    "University/Discrete Mathematics/Unit 3/Sec 3.1 - Sets and Subsets.md",
     "University/Discrete Mathematics/Unit 3/M189 Lecture on Sec 3.2 (outline).pdf",
     "University/Discrete Mathematics/Unit 3/M189 Lecture on Sec 3.1 (outline).pdf",
     "University/Discrete Mathematics/Unit 3",

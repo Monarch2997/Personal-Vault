@@ -32,7 +32,7 @@ When players first encounter an NPC, before they fight, they need to be able to 
 ### Save and Load
 Figure out how unity creates saves and make sure to save player progress, ability scores, inventory, name, choices made, morality, and locations
 ### Portals:
-to transport you from point A to point B seamlessly in the same or different level 
+Disable collision for player character, then begin to move them from point a to point b, then once arrived, enable collision
 ### Cinematic Screen:
 Allow the game to change while pausing player input
 ### Player Character
