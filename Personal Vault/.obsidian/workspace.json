@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/GIMM 110/Looper (6 weeks to complete game).md",
+                "file": "University/Discrete Mathematics/Unit 4/Sec 4.3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Looper (6 weeks to complete game)"
+              "title": "Sec 4.3"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/GIMM 110/Looper (6 weeks to complete game).md",
+                "file": "University/Discrete Mathematics/Unit 4/Sec 4.3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,29 +192,34 @@
   },
   "active": "46fcc218687f2149",
   "lastOpenFiles": [
-    "University/Discrete Mathematics/Unit 3/Sec 3.4 - More Set Operations.md",
-    "University/Discrete Mathematics/Unit 3/Sec 3.3 - Union and Intersection.md",
-    "University/Discrete Mathematics/Unit 3/Sec 3.2 - Set of Sets (Power Sets).md",
+    "D&D Characters/Faerun/Sir Gaalrawn.md",
+    "University/Discrete Mathematics/Unit 4/Sec 4.3.md",
+    "D&D Characters/Faerun",
+    "Untitled",
     "University/Discrete Mathematics/Unit 3/Sec 3.1 - Sets and Subsets.md",
+    "University/Discrete Mathematics/Unit 3/Sec 3.2 - Set of Sets (Power Sets).md",
+    "University/Discrete Mathematics/Unit 3/Sec 3.3 - Union and Intersection.md",
+    "University/Discrete Mathematics/Unit 3/Sec 3.4 - More Set Operations.md",
+    "University/Discrete Mathematics/Unit 2/Sec 2.2 - Introduction to Proofs.md",
+    "University/Discrete Mathematics/Unit 2/Sec 2.3 - Best Practices and Common Errors in Proofs.md",
+    "University/Discrete Mathematics/Unit 2/Sec 2.1 - Mathematical Definitions.md",
+    "University/Discrete Mathematics/Unit 4",
     "University/Discrete Mathematics/Unit 3/Sec 3.6 - Cartesian Products.md",
+    "University/GIMM 110/Looper (6 weeks to complete game).md",
     "University/Discrete Mathematics/Unit 1/Pasted image 20260828095623.png",
     "University/Discrete Mathematics/Unit 1/Pasted image 20260828092427.png",
     "University/Discrete Mathematics/Unit 3/M189 Lecture on Sec 3.6 (outline).pdf",
     "University/Discrete Mathematics/Unit 3/M189 Lecture on Sec 3.3 (outline) (1).pdf",
     "University/Discrete Mathematics/Unit 3/M189 Lecture on Sec 3.4 (outline).pdf",
     "D&D Characters/Thalassaria/Te'lapa.md",
-    "University/GIMM 110/Looper (6 weeks to complete game).md",
     "dungeon.ds",
     "University/Discrete Mathematics/Unit 2/Sec 3.1 - Sets and Subsets.md",
     "University/Discrete Mathematics/Unit 2/M189 Lecture on Sec 3.1 (outline).pdf",
     "University/GIMM 110/Expectations.md",
     "40k/Emeris The Everloving.md",
     "University/Discrete Mathematics/Unit 2/M189 Lecture on Sec 2.7 (outline).pdf",
-    "University/Discrete Mathematics/Unit 2/Sec 2.1 - Mathematical Definitions.md",
     "University/Discrete Mathematics/Unit 2/Sec 2.7 - Proof by Cases.md",
     "University/Discrete Mathematics/Unit 3/M189 Lecture on Sec 3.2 (outline).pdf",
-    "University/Discrete Mathematics/Unit 3/M189 Lecture on Sec 3.1 (outline).pdf",
-    "University/Discrete Mathematics/Unit 3",
     "University/Assignment Tracker.md",
     "D&D Characters/Kendelva/Morrow/Quick Note.md",
     "D&D Characters/Kendelva/Makaha/Quick Note.md",
@@ -225,12 +230,7 @@
     "D&D Characters/Amireath/Mosa/Summary.md",
     "D&D Characters/Amireath/Eleanor/Table of Spirits.md",
     "D&D Characters/Amireath/Eleanor/Summary.md",
-    "University/GIMM 100 Digital Tools/low-poly model ideas.md",
     "University/GIMM 100 Digital Tools/27304-i-have-no-mouth-and-i-must-scream-2-3267848992.webp",
-    "University/Discrete Mathematics/Unit 2/Sec 2.3 - Best Practices and Common Errors in Proofs.md",
-    "University/Discrete Mathematics/Unit 1/Sec 1.8 - De Morgan's Law for Quantified Statements.md",
-    "University/Discrete Mathematics/Unit 1/1.6, 1.7.md",
-    "University/GIMM 110",
     "40k/Pasted image 20260708184044.png"
   ]
 }
