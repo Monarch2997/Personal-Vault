@@ -1,4 +1,9 @@
-Archetype of [[Galahad Ozzie Davenport]]
+---
+tags:
+  - Class
+  - Silencing
+---
+Archetype of [[D&D Characters/Apocalypse Campaign/Galahad/Backstory/Lineage/4th Generation/Galahad Ozzie Davenport]]
 
 Based around getting benefits from vengeance. Absorbing the power of the betrayers to make Galahad richer and put him on top.
 

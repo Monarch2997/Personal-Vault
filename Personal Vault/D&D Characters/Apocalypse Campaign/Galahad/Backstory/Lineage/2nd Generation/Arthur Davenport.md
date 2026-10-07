@@ -1,3 +1,9 @@
+---
+tags:
+  - Silencing
+  - Davenport
+  - NPC
+---
 Born 1490, Arthur Davenport grew up in wonderous wealth. Living his youth in the [[Davenport Manor]] was full of fun and happy times. Him and his brother, [[Gawain Wilson]], would often spend entire days playing and having fun. Throughout their schooling, they would both show their paths. Arthur was a dedicated student and learned early that the fun in his life, and the wealth he enjoyed, was thanks to the work of his father, and a concept he called "[[Playing the Game through the Power and the Glory]]." He would find ways to trick and manipulate competitors, struggling to empathize with their loss due to his high-class upbringing and philosophy. Arthur was also known to be an "ally" of many political officials, assuring continued success through a powerful network of bribes.
 
 His glory days were during the peak of [[Nova Coal Co.]]'s success. Combining the strengths of his mother and father, Concordia & Tropez Davenport, Arthur became a smart, but suave business leader. After graduating from university with multiple masters in Finance and Business, this prodigal son was ready to take on anything. He jumped straight into running [[Nova Coal Co.]] with his brother Gawain Wilson. Together, they would spend much of their youth's growing the company, absorbing rivals, and taking over regions. 

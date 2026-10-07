@@ -1,3 +1,8 @@
+---
+tags:
+  - Class
+  - Amireath
+---
 
 ### Table of Victims:
 

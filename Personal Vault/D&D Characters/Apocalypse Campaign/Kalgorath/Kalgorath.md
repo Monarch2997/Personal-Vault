@@ -1,3 +1,9 @@
+---
+tags:
+  - Player-Character
+  - Silencing
+  - Kalgorath
+---
 
 ## Kalgorath, Avatar of Tarcas and Master of the Lands Beyond Our Own
 *Medium elemental, LE*

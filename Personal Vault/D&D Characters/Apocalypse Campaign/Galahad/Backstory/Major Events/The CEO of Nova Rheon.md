@@ -1,0 +1,5 @@
+---
+tags:
+  - Event
+  - Silencing
+---

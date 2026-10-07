@@ -1,3 +1,9 @@
+---
+tags:
+  - Silencing
+  - Davenport
+  - NPC
+---
 Born 1463 in Neval Prefecture, Nova Rheon. Tropez was an upstart entrepreneur. He tried his hand at everything. He studied all forms of business, seeking to become a powerful investor. He had accrued a small fund from his upper-middle class upbringing, but always dreamed of something bigger.
 
 At the age of 18, Tropez set out from home out on the road to seek his fortune. He made deals, struck bargains, and failed horribly. He would end up losing his small fund through a sequence of bad deals with shipping companies. There he fell on his luck, with no where to go.

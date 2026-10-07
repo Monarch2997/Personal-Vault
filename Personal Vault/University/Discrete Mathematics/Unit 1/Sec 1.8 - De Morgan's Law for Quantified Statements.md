@@ -1,3 +1,8 @@
+---
+tags:
+  - Unit-1
+Note: Claude
+---
 # Sec. 1.8 — De Morgan's Law for Quantified Statements
 
 ## Negation of "for all" and "there exists"

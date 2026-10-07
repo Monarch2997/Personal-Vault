@@ -1,3 +1,9 @@
+---
+tags:
+  - Player-Character
+  - Silencing
+  - Davenport
+---
 #### OVERVIEW OF AGENT: [[Galahad Ozzie Davenport]]
 
 1. Birthday: 1563
@@ -81,16 +87,16 @@ Over the next 3 years, Galahad would run a massive political campaign while Bedi
 
 In the end, Galahad would completely change his public image. He was going to be the Imperator of the people's pockets. He made great promises, such as making the average Nova Rheon citizen an upper middle class citizen.
 
-> [!note] Speech from candidate [[Galahad Ozzie Davenport]], 1605
+> [!note] Speech from candidate [[D&D Characters/Apocalypse Campaign/Galahad/Backstory/Lineage/4th Generation/Galahad Ozzie Davenport]], 1605
 >*My fellow citizens of Cordifor, I have seen the struggles you face, and I have felt them as well. Our police force, brutal. Our prisons, abominable. I have first hand experienced the cruelty of our system and the attacks of our police force. These are an act of what I call Government-Overreach. A truly thing.*
 >
 *My Father, Faw- (pause) -Franklin Davenport was.. (pauses to clear his eyes) .. a victim of this Government-Overreach. Due to our government's direct opposition to the freedom and wealth of its people, my father lost his life. I seek for no man, woman, or child to suffer as he did. I seek for all to live a prosperous, wealthy life and to not be forced down by a government that goes beyond its means.* 
 >
 >*As your next Secudex, I can with full certainty, assure you, that brighter, freer, wealthier, days are ahead of us all.* 
 
-In 1606, [[Galahad Ozzie Davenport]] was elected to be the next Secudex from Cordifor. The hard work was over. All the years of lying to the people who had taken so much from the Davenports had paid off. Now was the easy work. After meeting with much of the other Secudex's and Praetorian Guard, he would find a dozen and one ways to garner their vote. Most of the Secudex's could be deceived, blackmailed, or bribed. The most enjoyable of them all to Galahad was the Praetorian Guard. The two forces loved each other. The Praetorian Guard became his best allies in office. Not only did the Praetorian's and Galahad agree on most things, but also came from deeply similar backgrounds. The Praetorian's loved Galahad's ability to command, but also the clear better lives he would bring to the Praetorians. He had plans and promises galore that he shared with them to secure not only their vote, but their honest friendship as well. 
+In 1606, [[D&D Characters/Apocalypse Campaign/Galahad/Backstory/Lineage/4th Generation/Galahad Ozzie Davenport]] was elected to be the next Secudex from Cordifor. The hard work was over. All the years of lying to the people who had taken so much from the Davenports had paid off. Now was the easy work. After meeting with much of the other Secudex's and Praetorian Guard, he would find a dozen and one ways to garner their vote. Most of the Secudex's could be deceived, blackmailed, or bribed. The most enjoyable of them all to Galahad was the Praetorian Guard. The two forces loved each other. The Praetorian Guard became his best allies in office. Not only did the Praetorian's and Galahad agree on most things, but also came from deeply similar backgrounds. The Praetorian's loved Galahad's ability to command, but also the clear better lives he would bring to the Praetorians. He had plans and promises galore that he shared with them to secure not only their vote, but their honest friendship as well. 
 
-After little deliberation, [[Galahad Ozzie Davenport]] was selected to be the next Imperator of Ordo Continens. Immediately, Galahad worked to improve the lives of the Praetorian Guard and cooperate leaders. He would also "allow" the [[Davenport High Guard]] to retire.
+After little deliberation, [[D&D Characters/Apocalypse Campaign/Galahad/Backstory/Lineage/4th Generation/Galahad Ozzie Davenport]] was selected to be the next Imperator of Ordo Continens. Immediately, Galahad worked to improve the lives of the Praetorian Guard and cooperate leaders. He would also "allow" the [[Davenport High Guard]] to retire.
 
 | **Date**  | **Action Name**                               | **Immediete Effect**                                                                                                                                         | **Long Term Impact**                                                                                                                                  |
 | --------- | --------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -106,9 +112,9 @@ After little deliberation, [[Galahad Ozzie Davenport]] was selected to be the ne
 | 1611      | The reversal of the Denunciators Holdback Act | Denunciators have major budget increases and are more or less to go crazy due to rising protests against the current administration                          | Police brutality and violence rates skyrocket. Prison systems flood                                                                                   |
 | 1611      | The Prison Crackdown Act                      | Prisons sentence shortenings due to labor are massively reduced, while quotas-maximums are increased                                                         | Very few prisoners are let out and the death toll skyrockets again                                                                                    |
 | 1611      | The Final-Straw Act                           | To caste a vote, you must pay the vote-tax. Which is around 2 million dollars                                                                                | Protests erupt across Ordo Continens. Cooperate leaders are the only elidable voters                                                                  |
-A month after The-Final Straw Act, [[Galahad Ozzie Davenport]] is impeached from office. Pressure from The Covenant forces the Praetorian Guard to reluctantly take Galahad out of office and place him in Federal Prison. Due to having the best lawyer team in Nova Rheon, his sentence for treason against the people, blackmail, bribery, corruption, and much more was around 20 years, instead of death. A new Imperator was quickly elected and reversed much of Galahad's policies.
+A month after The-Final Straw Act, [[D&D Characters/Apocalypse Campaign/Galahad/Backstory/Lineage/4th Generation/Galahad Ozzie Davenport]] is impeached from office. Pressure from The Covenant forces the Praetorian Guard to reluctantly take Galahad out of office and place him in Federal Prison. Due to having the best lawyer team in Nova Rheon, his sentence for treason against the people, blackmail, bribery, corruption, and much more was around 20 years, instead of death. A new Imperator was quickly elected and reversed much of Galahad's policies.
 
-During [[The Collapse]], [[Galahad Ozzie Davenport]] sunk into a deep sorrow. He had risen so high, far beyond the clouds. [[Davenport Coal Co.]] was thriving, Ordo Continens was a cooperate dreamland, and his lineage was great again. He had absorbed the wealth of the people that had betrayed his family and now the people rose up again to take it all back. 
+During [[The Collapse]], [[D&D Characters/Apocalypse Campaign/Galahad/Backstory/Lineage/4th Generation/Galahad Ozzie Davenport]] sunk into a deep sorrow. He had risen so high, far beyond the clouds. [[Davenport Coal Co.]] was thriving, Ordo Continens was a cooperate dreamland, and his lineage was great again. He had absorbed the wealth of the people that had betrayed his family and now the people rose up again to take it all back. 
 
 He lamented in prison, realizing that he could take down any government that went after his family, he could take down any company that was a rival to them, but he could not defeat the simplest enemy of all, the people. The people of the world was always going to take from the Davenports, because the average citizen couldn't handle the Davenports supreme luck and strength that they held over anyone in the world.
 

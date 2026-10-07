@@ -1,3 +1,8 @@
+---
+tags:
+  - Unit-3
+Note: Claude
+---
 # Sec. 3.6 — Cartesian Products
 
 ## Definition

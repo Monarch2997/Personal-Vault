@@ -1,3 +1,8 @@
+---
+tags:
+  - Unit-2
+Note: Claude
+---
 # Sec. 2.2 — Introduction to Proofs
 
 - A **theorem** is a statement that can be proven to be true.

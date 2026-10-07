@@ -1,3 +1,8 @@
+---
+tags:
+  - Race
+  - Silencing
+---
 - **Unreliable Sustenance:** Due to their hybridized nature, the Selenids are diverse in what they really on, while some may rely on food for sustenance, others rely on a battery.
 - **Engramic:** Head shots do not apply to this form.
 

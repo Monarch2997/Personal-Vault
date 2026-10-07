@@ -1,3 +1,8 @@
+---
+tags:
+  - Unit-4
+Note: Human
+---
 ## Definitions:  let A, B be two sets. Let f: A -> B be a 
 ##### Then f is one-to-one (injective) if and only if different inputs in A map to different outputs in B.
 

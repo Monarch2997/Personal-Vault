@@ -1,3 +1,8 @@
+---
+tags:
+  - Player-Character
+  - Amireath
+---
 ## Mosa Mosgadi: 
 
 Athlete wanderer Loxodon Druid: Fights to win or the fix his need to win  

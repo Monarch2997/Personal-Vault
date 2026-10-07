@@ -1,3 +1,8 @@
+---
+tags:
+  - Class
+  - Silencing
+---
 **Armor:** all
 **Melee Weapon:** all
 **Ranged Weapon:** rifles, sidearms, bows, submachine guns

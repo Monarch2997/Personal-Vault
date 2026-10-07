@@ -1,3 +1,8 @@
+---
+tags:
+  - Class
+  - Silencing
+---
 # Augur
 
 **Hit Dice:** d8

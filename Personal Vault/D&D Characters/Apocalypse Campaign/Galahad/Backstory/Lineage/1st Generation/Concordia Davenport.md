@@ -1,3 +1,9 @@
+---
+tags:
+  - Silencing
+  - Davenport
+  - NPC
+---
 First known as Concordia Marsipan, she was born in 1464 in the Heimat Dominion. Her family was higher in the ruling class, and her father had the prejudice and pompousness to prove it. He judged everyone harshly, although he had a soft spot for Concordia. She was given much more freedom than her other siblings.
 
 In 1482, when Concordia became an adult, the Marsipan family moved to Nova Rheon, seeking a better life. There she studied at high-end universities. 

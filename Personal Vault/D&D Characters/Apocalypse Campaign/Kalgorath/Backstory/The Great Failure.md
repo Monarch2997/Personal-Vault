@@ -1,3 +1,8 @@
+---
+tags:
+  - Event
+  - Silencing
+---
 *I see it now, there is no hope. Life... has failed. I was wrong, so horribly wrong. I am as wretched as the life I made. Hope is wrong, life cannot handle abundance and a good world. Oh orb I entrapped down below, so long ago. You were right, about it all. I am truly sorry, you were wise. I was not. I will free you now, and we can make something truly great. Show me your vision, show your me your world of Tarcas. (Deep Sigh)
 Flee now my creations, you awakened me and showed me the truth, and for that I will let you keep your matter. Go find somewhere new, flee.*
 

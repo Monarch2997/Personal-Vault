@@ -1,0 +1,49 @@
+filters:
+  and:
+    - file.inFolder("D&D Characters")
+formulas:
+  Campaign: ""
+  Sort By Campaign: tags.filter(value.containsAny("Amireath", "Candelva", "Silencing", "Thalassaria", "Kalgorath", "Faerun", "Prelude", "Origin", "Draveria"))
+views:
+  - type: table
+    name: NPC
+    filters:
+      and:
+        - file.ext == "md"
+        - file.tags.containsAny("npc")
+    order:
+      - file.name
+      - tags
+    sort:
+      - property: tags
+        direction: DESC
+  - type: table
+    name: Everything
+  - type: table
+    name: Organizations
+    filters:
+      and:
+        - file.tags.contains("Organization")
+    order:
+      - file.name
+      - tags
+  - type: cards
+    name: Just Players
+    filters:
+      and:
+        - file.hasTag("Player-Character")
+    order:
+      - file.name
+      - formula.Campaign
+      - formula.Sort By Campaign
+    sort:
+      - property: formula.Sort By Campaign
+        direction: ASC
+  - type: table
+    name: Events
+    filters:
+      and:
+        - file.tags.contains("Event")
+    order:
+      - file.name
+      - tags

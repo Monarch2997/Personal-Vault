@@ -19,8 +19,8 @@
 		{"id":"3bc746d3ddb9ef0f","type":"text","text":"Kainoa Ahukai'nui","x":35,"y":380,"width":206,"height":60,"color":"6"},
 		{"id":"6da3c41b93aaa3a6","type":"text","text":"[[Galahad Ozzie Davenport]]","x":-1017,"y":380,"width":250,"height":60,"color":"5"},
 		{"id":"5ed9d941652155e5","type":"text","text":"[[Bedivere Davenport]]","x":-749,"y":380,"width":250,"height":60,"color":"5"},
-		{"id":"467b8a8b474719e8","type":"text","text":"Datura Wilson","x":260,"y":380,"width":250,"height":60,"color":"5"},
-		{"id":"93544cf1821de155","type":"text","text":"Amore Wilson","x":546,"y":380,"width":206,"height":60,"color":"6"},
+		{"id":"467b8a8b474719e8","type":"text","text":"RECORD WIPED","x":260,"y":380,"width":250,"height":60,"color":"5"},
+		{"id":"93544cf1821de155","type":"text","text":"RECORD WIPED","x":546,"y":380,"width":206,"height":60,"color":"6"},
 		{"id":"8dbc161bbafa130a","type":"text","text":"NOT FOUND\n(Presumed Leo Wilson)","x":790,"y":380,"width":220,"height":60,"color":"5"}
 	],
 	"edges":[

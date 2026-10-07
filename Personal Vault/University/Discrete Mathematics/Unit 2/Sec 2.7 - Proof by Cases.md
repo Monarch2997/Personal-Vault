@@ -1,3 +1,8 @@
+---
+tags:
+  - Unit-2
+Note: Claude
+---
 - A proof by cases of a universal statement such as “∀x, P(x)”, or “If x is an integer, then...” breaks the domain for the variable into different classes and gives a different proof for each class. 
 - Every value in the domain must be included in at least one class.
 

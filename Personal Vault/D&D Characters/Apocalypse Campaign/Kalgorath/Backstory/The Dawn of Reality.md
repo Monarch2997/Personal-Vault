@@ -1,3 +1,8 @@
+---
+tags:
+  - Event
+  - Silencing
+---
 
 " *The blizzard continues to blast past my cave, my small fire being my own source of warmth in these harsh, orcish mountains. I've been journeying south for some time now, seeking an alchemist by the name of Theran Berevan. Maybe he can cure my demonic affliction.* 
 

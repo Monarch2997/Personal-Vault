@@ -1,3 +1,8 @@
+---
+tags:
+  - Class
+  - Silencing
+---
 
 All about taking the matter within their body and using to create new objects and weapons. Break himself up to create new things. I want to try and be as creative as possible with what matter can do. He will also gain more access to more matter as he ranks up.
 

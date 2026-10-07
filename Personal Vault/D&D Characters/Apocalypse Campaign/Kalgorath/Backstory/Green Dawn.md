@@ -1,3 +1,8 @@
+---
+tags:
+  - Event
+  - Silencing
+---
 
 ![[1(dont read from here).png|697]]
 ![[2(dont read from here).png]]
@@ -12,7 +17,7 @@ The Outworlder imagined this wonderful place. Lands of melting, everchanging lav
 
 From there, Kalgorath set forth. He travelled the land seeking civilization. He eventually tracked down the weather station Eddie was based out of. To break in, he had to get through the locked door silently during the night. After arduous strain, he moved some of the atoms within his finger into the lock. He was able to open the lock from the inside. He then recollected himself and moved in. 
 
-His footsteps were loud and heavy, due to Kalgorath struggling to handle his new uncontrolled density and weight. His abilities of stealth in his new form were poor, and Eddie awoke. Kalgorath saw Eddie peek his bedroom door open and point his gun at them. Immediately seeing the unholy creation, Eddie fired two shots before Kalgorath closed the distance. The bullets left giant holes within Kalgorath' s body, but they slowly begun to be refilled. Kalgorath grabbed at Eddie's face, forcing him into the door. "Tell me abomination of this world, where does thou's world hold power?" Intimidated by the cryptid in front of him, Eddie told him about the different major governments of the world, about [[Galahad Ozzie Davenport]] the Imperator and his Praetorians. "That is all. When my work in this twisted land is done I'll be back for you." and Kalgorath left.
+His footsteps were loud and heavy, due to Kalgorath struggling to handle his new uncontrolled density and weight. His abilities of stealth in his new form were poor, and Eddie awoke. Kalgorath saw Eddie peek his bedroom door open and point his gun at them. Immediately seeing the unholy creation, Eddie fired two shots before Kalgorath closed the distance. The bullets left giant holes within Kalgorath' s body, but they slowly begun to be refilled. Kalgorath grabbed at Eddie's face, forcing him into the door. "Tell me abomination of this world, where does thou's world hold power?" Intimidated by the cryptid in front of him, Eddie told him about the different major governments of the world, about [[D&D Characters/Apocalypse Campaign/Galahad/Backstory/Lineage/4th Generation/Galahad Ozzie Davenport]] the Imperator and his Praetorians. "That is all. When my work in this twisted land is done I'll be back for you." and Kalgorath left.
 
 He would continue on his journey, seeing many places across Ordo Continens. He would learn much more about the world and its histories. Eddie would go on to report his encounter with "The Outworlder." Most would shrug off his crazy story but a division of Astro Moros would hear of this cryptid tale. A small team of three agents would track them down. Kalgorath would avoid them at many turns, and small skirmishes would occasionally occur. Kalgorath would successfully wound the team and slay one of their members. In the moment after their death, one member, consumed in rage, would break protocol and use his powerful, explosive archetype on Kalgorath. This immense power to manipulate the world around him fascinated Kalgorath. They would turn their gaze away from the governments of the world and towards the occult powers that members of Astro Moros had. He would attempt to capture the members tracking him down, but would fail in their battle. Kalgorath was captured, brought to a research facility, and imprisoned there. 
 

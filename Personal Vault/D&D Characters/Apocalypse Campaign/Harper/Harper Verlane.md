@@ -1,3 +1,8 @@
+---
+tags:
+  - Player-Character
+  - Silencing
+---
 
 # Pilot: Harper Verlane
 

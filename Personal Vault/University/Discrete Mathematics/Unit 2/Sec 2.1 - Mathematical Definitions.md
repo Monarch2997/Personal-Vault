@@ -1,3 +1,8 @@
+---
+tags:
+  - Unit-2
+Note: Claude
+---
 # Sec. 2.1 — Mathematical Definitions
 
 ## What is an "integer"?

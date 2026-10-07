@@ -1,3 +1,8 @@
+---
+tags:
+  - Unit-2
+Note: Claude
+---
 # Sec. 2.3 — Best Practices and Common Errors in Proofs
 
 > See zyBook Figure 2.3.1 for allowed assumptions in proofs.

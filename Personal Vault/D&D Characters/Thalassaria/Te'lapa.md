@@ -1,3 +1,8 @@
+---
+tags:
+  - Player-Character
+  - Thalassaria
+---
 ## Overview:
 
 ## Visual:

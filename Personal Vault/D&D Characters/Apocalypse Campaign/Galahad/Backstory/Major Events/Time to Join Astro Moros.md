@@ -1,1 +1,6 @@
+---
+tags:
+  - Event
+  - Silencing
+---
 Start date: Verenthos 23rd, 1613,  3/23/1613

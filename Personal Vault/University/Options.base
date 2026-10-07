@@ -1,0 +1,21 @@
+views:
+  - type: table
+    name: View
+    filters:
+      and:
+        - file.ext == "md"
+        - file.inFolder("University/Discrete Mathematics")
+    order:
+      - file.name
+      - Note
+      - tags
+      - file.ctime
+    sort:
+      - property: file.tags
+        direction: ASC
+      - property: Note
+        direction: DESC
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Sight

@@ -1,3 +1,8 @@
+---
+tags:
+  - Player-Character
+  - Prelude
+---
 Unknown backstory
 
 Ulysses S. Equilibrium

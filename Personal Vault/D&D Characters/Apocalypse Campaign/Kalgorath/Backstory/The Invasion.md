@@ -1,3 +1,8 @@
+---
+tags:
+  - Event
+  - Silencing
+---
 
 
 ### Kalgorath during the Kicharii Invasion

@@ -1,3 +1,8 @@
+---
+tags:
+  - Unit-3
+Note: Claude
+---
 # Sec. 3.2 — Set of Sets
 
 We have seen that a set can be an element of another set. For example, $\{x, y, \{1\}\}$.
