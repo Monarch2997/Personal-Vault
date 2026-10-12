@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0c52eed06bf7caf1",
+        "id": "a20bc4f62a6aa9b3",
         "type": "tabs",
         "children": [
           {
-            "id": "ded944338fad0188",
+            "id": "d03f1dbf7deeb194",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D&D Characters/Thalassaria/Te'lapa.md",
+                "file": "University/Discrete Mathematics/Unit 4/Sec 4.5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Te'lapa"
+              "title": "Sec 4.5"
             }
           }
         ]
@@ -55,8 +55,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": false,
+                "query": "tag:Character",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
     "id": "deecf844c73e5bae",
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/Discrete Mathematics/Unit 1/1.1 Propositions and Logical Operations.md",
+                "file": "University/Discrete Mathematics/Unit 4/Sec 4.5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,8 +174,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,53 +187,52 @@
       "bases:Create new base": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "calendarium:Open Calendarium": false
+      "calendarium:Open Calendarium": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ded944338fad0188",
+  "active": "d03f1dbf7deeb194",
   "lastOpenFiles": [
-    "University/Discrete Mathematics/Unit 4/Sec 4.3.md",
-    "University/Discrete Mathematics/Unit 4",
+    "Excalidraw/Drawing 2026-10-12 09.39.45.excalidraw.md",
+    "University/Discrete Mathematics/Unit 4/Sec 4.5.md",
+    "Excalidraw/Drawing 2026-10-12 09.33.27.excalidraw.md",
+    "University/Discrete Mathematics/Unit 2/Sec 2.2 - Introduction to Proofs.md",
+    "University/Discrete Mathematics/Unit 2/Sec 2.3 - Best Practices and Common Errors in Proofs.md",
+    "University/Discrete Mathematics/Unit 2/Sec 2.4-2.5 - Direct Proofs and Proof by Contrapositive.md",
+    "University/Discrete Mathematics/Unit 2/Sec 3.1 - Sets and Subsets.md",
+    "University/Discrete Mathematics/Unit 2/Sec 2.7 - Proof by Cases.md",
+    "University/Discrete Mathematics/Unit 3/Sec 3.1 - Sets and Subsets.md",
+    "University/Discrete Mathematics/Unit 3/Sec 3.2 - Set of Sets (Power Sets).md",
+    "Excalidraw/Drawing 2026-10-12 09.12.21.excalidraw.md",
+    "Excalidraw",
     "University/Options.base",
-    "DLC - Old Island Blues/Factions/Akua Clan/Koa/Ideas.md",
-    "DLC - Old Island Blues/Factions/Akua Clan/Ali'i/Zhengi.md",
-    "DLC - Old Island Blues/Factions/Akua Clan/Ali'i/Khanzo.md",
-    "DLC - Old Island Blues/Factions/Akua Clan/Ali'i/Jubei'thos.md",
-    "DLC - Old Island Blues/Factions/Akua Clan/Ali'i/Hou'kane.md",
-    "DLC - Old Island Blues/Factions/Akua Clan/Ali'i/Genjuro.md",
-    "DLC - Old Island Blues/Factions/Children of Maoli/Kamapua'a.md",
-    "DLC - Old Island Blues/Factions/Akua Clan/Akua Clan.md",
-    "DLC - Old Island Blues/Factions/Akua Clan/Koa",
-    "DLC - Old Island Blues/Factions/Akua Clan/Ali'i",
-    "DLC - Old Island Blues/Locations/Kiluaea Outlook Base.md",
-    "DLC - Old Island Blues/Locations/Hoaloaloa Village.md",
-    "DLC - Old Island Blues/Locations/Hakioawa (Kahoolawe).md",
-    "DLC - Old Island Blues/Factions/Children of Maoli",
-    "DLC - Old Island Blues/Factions/Akua Clan",
-    "DLC - Old Island Blues/Extra Notes/Somewhere in the blue....md",
-    "DLC - Old Island Blues/Extra Notes/Mana'osis.md",
-    "DLC - Old Island Blues/Archetypes/Pua'a.md",
-    "DLC - Old Island Blues/Archetypes/Pohō.md",
-    "DLC - Old Island Blues/Archetypes/Nightmarcher.md",
-    "DLC - Old Island Blues/Archetypes/Menehune.md",
-    "DLC - Old Island Blues/Archetypes/Mano.md",
-    "DLC - Old Island Blues/Archetypes/Kau'ana.md",
-    "DLC - Old Island Blues/Archetypes/Kane.md",
-    "DLC - Old Island Blues/Locations",
-    "DLC - Old Island Blues/Summary.md",
-    "DLC - Old Island Blues/Factions",
-    "DLC - Old Island Blues/Extra Notes",
-    "DLC - Old Island Blues/Archetypes",
-    "DLC - Old Island Blues/ALERT.md",
-    "D&D Characters/Faerun/Sir Gaalrawn.md",
-    "D&D Characters/Ending Campaigns/Finale Prelude/Equilibrium/Ulysses Equilibrium.md",
-    "D&D Characters/Ending Campaigns/Bodger Origin/Quare/Quare.md",
+    "D&D Characters/Characters.base",
+    "D&D Characters/Draveria/Baelrog.md",
+    "D&D Characters/Draveria/Untitled.md",
+    "D&D Characters/Draveria",
+    "D&D Characters/Cendelva/Chen/Chen.md",
+    "D&D Characters/Amireath/Mosa/Mosa Mosgadi.md",
+    "D&D Characters/Apocalypse Campaign/Galahad/Backstory/Lineage/Family Tree.canvas",
+    "D&D Characters/Apocalypse Campaign/Galahad/Backstory/Galahad Ozzie Davenport.md",
+    "D&D Characters/Apocalypse Campaign/Galahad/Backstory/Lineage/3rd Generation/Fawkes Davenport.md",
+    "D&D Characters/Apocalypse Campaign/Galahad/Backstory/Lineage/By-Marrige/Panarge Davenport.md",
+    "D&D Characters/Apocalypse Campaign/Galahad/Backstory/Lineage/3rd Generation/Callista Davenport.md",
+    "D&D Characters/Apocalypse Campaign/Galahad/Backstory/Lineage/By-Marrige/Margorie Davenport.md",
+    "D&D Characters/Sort2.md",
+    "D&D Characters/Apocalypse Campaign/Galahad/Backstory/Lineage/4th Generation/Galahad Ozzie Davenport.md",
+    "D&D Characters/Apocalypse Campaign/Kalgorath/Kalgorath.md",
+    "D&D Characters/Apocalypse Campaign/Galahad/Backstory/Locations/Camelot.md",
+    "D&D Characters/Amireath/Eleanor/Eleanor Dhessal.md",
+    "D&D Characters/Apocalypse Campaign/Harper/Harper Verlane.md",
+    "University/Discrete Mathematics/Unit 2/M189 Lecture on Sec 2.3 (outline).pdf",
+    "University/Discrete Mathematics/Unit 2/M189 Lecture on Sec 1.8 (outline).pdf",
+    "D&D Characters/Faerun",
+    "Untitled",
+    "University/Discrete Mathematics/Unit 4",
     "University/Discrete Mathematics/Unit 1/Pasted image 20260828095623.png",
     "University/Discrete Mathematics/Unit 1/Pasted image 20260828092427.png",
+    "University/Discrete Mathematics/Unit 3/M189 Lecture on Sec 3.6 (outline).pdf",
     "University/GIMM 100 Digital Tools/27304-i-have-no-mouth-and-i-must-scream-2-3267848992.webp",
-    "University/Discrete Mathematics/Pasted image 20260828092427.png",
-    "University/Discrete Mathematics/Pasted image 20260828095623.png",
-    "Untitled.canvas",
     "40k/Pasted image 20260708184044.png"
   ]
 }

@@ -22,10 +22,10 @@ Many mathematical theorems are universal statements or implication statements. M
 
 ### Recall
 
-| | To prove | To disprove |
-|---|---|---|
+|                    | To prove                                               | To disprove                                            |
+| ------------------ | ------------------------------------------------------ | ------------------------------------------------------ |
 | $\forall x,\ P(x)$ | Show that $P(x)$ is **T** for every $x$ in the domain. | Find one counterexample $x$ such that $P(x)$ is **F**. |
-| $\exists x,\ P(x)$ | Find one example $x$ such that $P(x)$ is **T**. | Show that $P(x)$ is **F** for every $x$ in the domain. |
+| $\exists x,\ P(x)$ | Find one example $x$ such that $P(x)$ is **T**.        | Show that $P(x)$ is **F** for every $x$ in the domain. |
 
 ---
 
