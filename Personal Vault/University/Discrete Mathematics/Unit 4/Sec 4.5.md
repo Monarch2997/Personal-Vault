@@ -43,3 +43,17 @@ $$FoG=I_B$$ $$FoG(y) = y$$[[Drawing 2026-10-12 09.33.27.excalidraw]]
 *Theorem 4:* Composition of functions is an associative operation
 (FoG)oH = Fo(GoH) * NOT commutative FoG /= GoF
 [[Drawing 2026-10-12 09.39.45.excalidraw]]
+
+#### Exercise 5
+Define: $$f,g,h: R->R, by,f(x)=x+2,g(x)=\frac{1}{x^2 + 1}, h(x)=3$$
+$$(HoGoF)(x) = HoG(x+2) = h(\frac{1}{(x+2)^2+1}) =3$$
+$$h(g(f(x))= 3$$
+$$(GoHoF)(x) = GoH(x+2)=g(3)=\frac{1}{3^2+1}=\frac{1}{10}$$
+$$(GoFo F^-1)(x) = (GoI)(x)=g(x)=\frac{1}{x^2+1}$$
+$$(FoGoF^-1)(x) = FoG(x-2)=f(\frac{1}{(x-2)^2+1})=\frac{1}{x^2-4x+5}+2$$
+a function f has an inverse if and only if f is bijective
+if f: A->B has an inverse, then f^-1 = {(y,x) | x,y $\in$ f} 
+if f: A->B and g: B->C then the composition of g with f is the function GoF : A -> C defined by GoF(a) = g(f(a)) $\forall$ a $\in$ A
+if f: A->A, then $FoI_A$ = f = $I_A$ oF
+if f: A->B has an inverse, Fof^-1 = $I_B$ and f^-1 oF = $I_A$
+(FoG)oH = Fo(GoH)
